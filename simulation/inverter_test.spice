@@ -1,0 +1,15 @@
+* Sky130 CMOS Inverter Test
+.lib "/home/kbvar/open_pdks/sky130/sky130A/libs.tech/combined/sky130.lib.spice" tt
+
+VDD VDD 0 1.8
+VIN A 0 PULSE(0 1.8 0 1n 1n 10n 20n)
+
+XM1 Y A 0 0 sky130_fd_pr__nfet_01v8 L=0.15 W=1
+XM2 Y A VDD VDD sky130_fd_pr__pfet_01v8 L=0.15 W=1
+
+.control
+tran 0.1n 40n
+print V(A) V(Y)
+.endc
+
+.end

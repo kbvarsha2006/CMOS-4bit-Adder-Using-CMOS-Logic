@@ -1,0 +1,10 @@
+** sch_path: /home/kbvar/CMOS_4bit_Adder/xschem/full_adder_cmos.sch
+**.subckt full_adder_cmos
+XM1 Y A GND GND sky130_fd_pr__nfet_01v8 L=0.15 W=1 nf=1 ad=expr('int((@nf + 1)/2) * @W / @nf * 0.29')
++ as=expr('int((@nf + 2)/2) * @W / @nf * 0.29') pd=expr('2*int((@nf + 1)/2) * (@W / @nf + 0.29)') ps=expr('2*int((@nf + 2)/2) * (@W / @nf + 0.29)')
++ nrd=expr('0.29 / @W ') nrs=expr('0.29 / @W ') sa=0 sb=0 sd=0 mult=1 m=1
+XM2 Y A VDD VDD sky130_fd_pr__pfet_01v8 L=0.15 W=1 nf=1 ad=expr('int((@nf + 1)/2) * @W / @nf * 0.29')
++ as=expr('int((@nf + 2)/2) * @W / @nf * 0.29') pd=expr('2*int((@nf + 1)/2) * (@W / @nf + 0.29)') ps=expr('2*int((@nf + 2)/2) * (@W / @nf + 0.29)')
++ nrd=expr('0.29 / @W ') nrs=expr('0.29 / @W ') sa=0 sb=0 sd=0 mult=1 m=1
+**.ends
+.end
