@@ -1,0 +1,58 @@
+
+Note: Compatibility modes selected: hs a
+
+
+Circuit: * sky130 1-bit full adder testbench
+
+option SCALE: Scale is set to 1e-06 for instance and model parameters
+option SCALE: Scale is set to 1e-06 for instance and model parameters
+option SCALE: Scale is set to 1e-06 for instance and model parameters
+option SCALE: Scale is set to 1e-06 for instance and model parameters
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+a                                            0
+b                                            0
+cin                                          0
+vpwr                                       1.8
+vgnd                                         0
+vnb                                          0
+vpb                                        1.8
+x1out                              4.67214e-09
+sum                                4.67214e-09
+c1                                 4.67214e-09
+c2                                 4.67214e-09
+cout                               4.67214e-09
+vvpb#branch                       -1.65466e-11
+vvnb#branch                         1.4529e-11
+vvgnd#branch                       1.71681e-11
+vvpwr#branch                      -1.51518e-11
+vc#branch                                    0
+vb#branch                                    0
+va#branch                                    0
+
+ Reference value :  0.00000e+00 Reference value :  1.76025e-08
+No. of Data Rows : 403
+sum_000             =  4.672139e-09
+cout_000            =  4.672139e-09
+sum_100             =  1.803770e+00
+cout_100            =  6.785358e-06
+sum_010             =  1.803082e+00
+cout_010            =  1.053637e-02
+sum_110             =  1.496492e-03
+cout_110            =  1.808677e+00
+sum_001             =  1.799906e+00
+cout_001            =  1.369947e-02
+sum_101             =  -2.880300e-04
+cout_101            =  1.800077e+00
+sum_011             =  -1.852974e-03
+cout_011            =  1.800454e+00
+sum_111             =  1.795403e+00
+cout_111            =  1.798993e+00
+Note: Simulation executed from .control section 
