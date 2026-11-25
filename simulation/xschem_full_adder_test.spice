@@ -1,0 +1,52 @@
+* Xschem Sky130 Full Adder Testbench
+
+* Load Sky130 typical transistor models
+.lib "/home/kbvar/open_pdks/sky130/sky130A/libs.tech/ngspice/sky130.lib.spice" tt
+
+* Load Sky130 standard-cell gates
+.include "/home/kbvar/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice"
+
+* Load Xschem-generated full-adder netlist
+.include "/home/kbvar/CMOS_4bit_Adder/xschem/netlist/full_adder_clean.spice"
+
+* Power supplies
+VDD VPWR 0 1.8
+VGND 0 VGND 0
+VNB 0 VNB 0
+VPB VPWR VPB 0
+
+* Input signals
+VA A 0 PULSE(0 1.8 0n 100p 100p 20n 40n)
+VB B 0 PULSE(0 1.8 0n 100p 100p 10n 20n)
+VC Cin 0 PULSE(0 1.8 0n 100p 100p 5n 10n)
+
+* Full adder instance
+XFA A B Cin Sum Cout full_adder_clean
+
+.control
+tran 0.1n 40n
+print v(A) v(B) v(Cin) v(Sum) v(Cout)
+.endc
+
+.end* Xschem Sky130 Full Adder Testbench
+
+.include "/home/kbvar/CMOS_4bit_Adder/xschem/netlist/full_adder_clean.spice"
+.include "/home/kbvar/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice"
+
+VDD VPWR 0 1.8
+VGND 0 VGND 0
+VNB 0 VNB 0
+VPB VPWR VPB 0
+
+VA A 0 PULSE(0 1.8 0n 100p 100p 20n 40n)
+VB B 0 PULSE(0 1.8 0n 100p 100p 10n 20n)
+VC Cin 0 PULSE(0 1.8 0n 100p 100p 5n 10n)
+
+XFA A B Cin Sum Cout full_adder_clean
+
+.control
+tran 0.1n 40n
+print v(A) v(B) v(Cin) v(Sum) v(Cout)
+.endc
+
+.end

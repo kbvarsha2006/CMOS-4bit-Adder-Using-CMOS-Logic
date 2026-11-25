@@ -1,0 +1,2546 @@
+Warning: m=xx on .subckt line will override multiplier m hierarchy!
+
+Warning: redefinition of .subckt full_adder_clean, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2bb2o_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2bb2o_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2bb2o_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2bb2oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2bb2oi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2bb2oi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21bo_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21bo_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21bo_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21boi_0, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21boi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21boi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21boi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21o_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21o_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21o_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21oi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a21oi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a22o_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a22o_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a22o_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a22oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a22oi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a22oi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a31o_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a31o_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a31o_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a31oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a31oi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a31oi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a32o_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a32o_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a32o_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a32oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a32oi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a32oi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a41o_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a41o_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a41o_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a41oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a41oi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a41oi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a211o_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a211o_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a211o_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a211oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a211oi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a211oi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a221o_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a221o_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a221o_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a221oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a221oi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a221oi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a222oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a311o_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a311o_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a311o_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a311oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a311oi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a311oi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2111o_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2111o_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2111o_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2111oi_0, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2111oi_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2111oi_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__a2111oi_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and2_0, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and2_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and2_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and2_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and2b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and2b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and2b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and3_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and3_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and3_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and3b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and3b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and3b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and4_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and4_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and4_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and4b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and4b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and4b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and4bb_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and4bb_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__and4bb_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__buf_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__buf_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__buf_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__buf_6, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__buf_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__buf_12, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__buf_16, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__bufbuf_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__bufbuf_16, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__bufinv_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__bufinv_16, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkbuf_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkbuf_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkbuf_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkbuf_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkbuf_16, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkdlybuf4s15_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkdlybuf4s15_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkdlybuf4s18_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkdlybuf4s18_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkdlybuf4s25_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkdlybuf4s25_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkdlybuf4s50_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkdlybuf4s50_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkinv_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkinv_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkinv_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkinv_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkinv_16, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkinvlp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__clkinvlp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__conb_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__decap_3, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__decap_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__decap_6, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__decap_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__decap_12, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfbbn_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfbbn_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfbbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfrbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfrbp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfrtn_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfrtp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfrtp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfrtp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfsbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfsbp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfstp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfstp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfstp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfxbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfxbp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfxtp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfxtp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dfxtp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__diode_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlclkp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlclkp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlclkp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlrbn_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlrbn_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlrbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlrbp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlrtn_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlrtn_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlrtn_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlrtp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlrtp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlrtp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlxbn_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlxbn_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlxbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlxtn_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlxtn_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlxtn_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlxtp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlygate4sd1_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlygate4sd2_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlygate4sd3_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlymetal6s2s_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlymetal6s4s_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__dlymetal6s6s_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__ebufn_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__ebufn_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__ebufn_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__ebufn_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__edfxbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__edfxtp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__einvn_0, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__einvn_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__einvn_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__einvn_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__einvn_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__einvp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__einvp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__einvp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__einvp_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__fa_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__fa_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__fa_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__fah_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__fahcin_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__fahcon_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__fill_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__fill_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__fill_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__fill_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__ha_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__ha_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__ha_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__inv_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__inv_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__inv_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__inv_6, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__inv_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__inv_12, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__inv_16, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_bleeder_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_clkbufkapwr_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_clkbufkapwr_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_clkbufkapwr_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_clkbufkapwr_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_clkbufkapwr_16, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_clkinvkapwr_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_clkinvkapwr_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_clkinvkapwr_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_clkinvkapwr_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_clkinvkapwr_16, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_decapkapwr_3, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_decapkapwr_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_decapkapwr_6, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_decapkapwr_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_decapkapwr_12, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_inputiso0n_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_inputiso0p_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_inputiso1n_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_inputiso1p_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_inputisolatch_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_isobufsrc_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_isobufsrc_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_isobufsrc_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_isobufsrc_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_isobufsrc_16, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_isobufsrckapwr_16, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_lsbuf_lh_hl_isowell_tap_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__lpflow_lsbuf_lh_isowell_tap_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__macro_sparecell, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__maj3_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__maj3_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__maj3_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__mux2_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__mux2_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__mux2_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__mux2_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__mux2i_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__mux2i_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__mux2i_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__mux4_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__mux4_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__mux4_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand2_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand2_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand2_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand2_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand2b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand2b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand2b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand3_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand3_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand3_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand3b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand3b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand3b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand4_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand4_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand4_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand4b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand4b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand4b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand4bb_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand4bb_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nand4bb_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor2_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor2_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor2_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor2_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor2b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor2b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor2b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor3_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor3_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor3_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor3b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor3b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor3b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor4_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor4_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor4_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor4b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor4b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor4b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor4bb_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor4bb_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__nor4bb_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2bb2a_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2bb2a_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2bb2a_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2bb2ai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2bb2ai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2bb2ai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21a_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21a_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21a_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21ai_0, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21ai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21ai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21ai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21ba_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21ba_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21ba_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21bai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21bai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o21bai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o22a_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o22a_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o22a_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o22ai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o22ai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o22ai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o31a_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o31a_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o31a_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o31ai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o31ai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o31ai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o32a_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o32a_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o32a_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o32ai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o32ai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o32ai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o41a_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o41a_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o41a_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o41ai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o41ai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o41ai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o211a_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o211a_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o211a_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o211ai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o211ai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o211ai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o221a_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o221a_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o221a_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o221ai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o221ai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o221ai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o311a_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o311a_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o311a_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o311ai_0, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o311ai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o311ai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o311ai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2111a_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2111a_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2111a_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2111ai_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2111ai_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__o2111ai_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or2_0, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or2_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or2_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or2_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or2b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or2b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or2b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or3_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or3_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or3_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or3b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or3b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or3b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or4_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or4_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or4_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or4b_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or4b_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or4b_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or4bb_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or4bb_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__or4bb_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__probe_p_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__probec_p_8, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfbbn_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfbbn_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfbbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfrbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfrbp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfrtn_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfrtp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfrtp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfrtp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfsbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfsbp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfstp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfstp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfstp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfxbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfxbp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfxtp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfxtp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdfxtp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdlclkp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdlclkp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sdlclkp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sedfxbp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sedfxbp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sedfxtp_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sedfxtp_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__sedfxtp_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__tap_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__tap_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__tapvgnd2_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__tapvgnd_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__tapvpwrvgnd_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xnor2_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xnor2_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xnor2_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xnor3_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xnor3_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xnor3_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xor2_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xor2_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xor2_4, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xor3_1, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xor3_2, ignored
+Warning: redefinition of .subckt sky130_fd_sc_hd__xor3_4, ignored
+
+Note: Compatibility modes selected: hs a
+
+
+Circuit: * xschem sky130 full adder testbench
+
+option SCALE: Scale is set to 1e-06 for instance and model parameters
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+a                                            0
+vgnd                                         0
+vnb                                          0
+b                                            0
+p                                  2.70603e-09
+vpwr                                       1.8
+vpb                                        1.8
+cin                                          0
+sum                                2.70603e-09
+g1                                 2.70603e-09
+g2                                 2.70603e-09
+cout                               2.70603e-09
+xfa.vgnd                           2.70514e-09
+xfa.vnb                            2.70512e-09
+xfa.p                              2.70508e-09
+xfa.vpwr                           2.70499e-09
+xfa.vpb                            2.70498e-09
+xfa.g1                             2.70505e-09
+xfa.g2                             2.70505e-09
+vc#branch                                    0
+vb#branch                                    0
+va#branch                                    0
+vpb#branch                         1.29776e-11
+vnb#branch                         -1.4529e-11
+vgnd#branch                       -1.37561e-11
+vdd#branch                        -2.82873e-11
+
+ Reference value :  0.00000e+00 Reference value :  9.79104e-09 Reference value :  1.94430e-08 Reference value :  2.93565e-08 Reference value :  3.74875e-08
+No. of Data Rows : 476
+                      * xschem sky130 full adder testbench
+                      Transient Analysis  Wed Nov 25 07:41:43  2026
+--------------------------------------------------------------------------------
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	
+1	1.000000e-12	1.800000e-02	1.800000e-02	1.800000e-02	
+2	2.000000e-12	3.600000e-02	3.600000e-02	3.600000e-02	
+3	4.000000e-12	7.200000e-02	7.200000e-02	7.200000e-02	
+4	8.000000e-12	1.440000e-01	1.440000e-01	1.440000e-01	
+5	1.600000e-11	2.880000e-01	2.880000e-01	2.880000e-01	
+6	3.200000e-11	5.760000e-01	5.760000e-01	5.760000e-01	
+7	6.400000e-11	1.152000e+00	1.152000e+00	1.152000e+00	
+8	1.000000e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+9	1.048132e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+10	1.144395e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+11	1.336922e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+12	1.721976e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+13	2.096362e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+14	2.632562e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+15	3.356513e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+16	4.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+17	5.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+18	6.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+19	7.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+20	8.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+21	9.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+22	1.013588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+23	1.113588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+24	1.213588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+25	1.313588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+26	1.413588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+27	1.513588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+28	1.613588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+29	1.713588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+30	1.813588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+31	1.913588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+32	2.013588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+33	2.113588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+34	2.213588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+35	2.313588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+36	2.413588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+37	2.513588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+38	2.613588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+39	2.713588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+40	2.813588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+41	2.913588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+42	3.013588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+43	3.113588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+44	3.213588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+45	3.313588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+46	3.413588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+47	3.513588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+48	3.613588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+49	3.713588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+50	3.813588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+51	3.913588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+52	4.013588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+53	4.113588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+54	4.213588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+55	4.313588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+56	4.413588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+57	4.513588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+58	4.613588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+59	4.713588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+60	4.813588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+61	4.913588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+62	5.013588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+63	5.100000e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+64	5.110000e-09	1.800000e+00	1.800000e+00	1.620000e+00	
+65	5.130000e-09	1.800000e+00	1.800000e+00	1.260000e+00	
+66	5.170000e-09	1.800000e+00	1.800000e+00	5.400000e-01	
+67	5.200000e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+68	5.208000e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+69	5.224000e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+70	5.256000e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+71	5.320000e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+72	5.391036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+73	5.491036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+74	5.591036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+75	5.691036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+76	5.791036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+77	5.891036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+78	5.991036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+79	6.091036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+80	6.191036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+81	6.291036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+82	6.391036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+83	6.491036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+84	6.591036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+85	6.691036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+86	6.791036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+87	6.891036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+88	6.991036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+89	7.091036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+90	7.191036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+91	7.291036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+92	7.391036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+93	7.491036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+94	7.591036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+95	7.691036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+96	7.791036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+97	7.891036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+98	7.991036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+99	8.091036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+100	8.191036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+101	8.291036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+102	8.391036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+103	8.491036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+104	8.591036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+105	8.691036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+106	8.791036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+107	8.891036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+108	8.991036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+109	9.091036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+110	9.191036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+111	9.291036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+112	9.391036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+113	9.491036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+114	9.591036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+115	9.691036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+116	9.791036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+117	9.891036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+118	9.991036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+119	1.000000e-08	1.800000e+00	1.800000e+00	0.000000e+00	
+120	1.001000e-08	1.800000e+00	1.800000e+00	1.800000e-01	
+121	1.003000e-08	1.800000e+00	1.800000e+00	5.400000e-01	
+122	1.006518e-08	1.800000e+00	1.800000e+00	1.173180e+00	
+123	1.010000e-08	1.800000e+00	1.800000e+00	1.800000e+00	
+124	1.010667e-08	1.800000e+00	1.679878e+00	1.800000e+00	
+125	1.012002e-08	1.800000e+00	1.439634e+00	1.800000e+00	
+126	1.014671e-08	1.800000e+00	9.591467e-01	1.800000e+00	
+127	1.020000e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+128	1.020534e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+129	1.021602e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+130	1.023737e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+131	1.028008e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+132	1.035989e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+133	1.043274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+134	1.053274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+135	1.063274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+136	1.073274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+137	1.083274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+138	1.093274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+139	1.103274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+140	1.113274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+141	1.123274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+142	1.133274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+143	1.143274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+144	1.153274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+145	1.163274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+146	1.173274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+147	1.183274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+148	1.193274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+149	1.203274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+150	1.213274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+151	1.223274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+152	1.233274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+153	1.243274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+154	1.253274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+155	1.263274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+156	1.273274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+157	1.283274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+158	1.293274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+159	1.303274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+160	1.313274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+161	1.323274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+162	1.333274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+163	1.343274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+164	1.353274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+165	1.363274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+166	1.373274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+167	1.383274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+168	1.393274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+169	1.403274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+170	1.413274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+171	1.423274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+172	1.433274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+173	1.443274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+174	1.453274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+175	1.463274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+176	1.473274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+177	1.483274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+178	1.493274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+179	1.503274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+180	1.510000e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+181	1.511000e-08	1.800000e+00	0.000000e+00	1.620000e+00	
+182	1.513000e-08	1.800000e+00	0.000000e+00	1.260000e+00	
+183	1.517000e-08	1.800000e+00	0.000000e+00	5.400000e-01	
+184	1.520000e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+185	1.520800e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+186	1.522400e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+187	1.525600e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+188	1.530521e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+189	1.535645e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+190	1.544304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+191	1.554304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+192	1.564304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+193	1.574304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+194	1.584304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+195	1.594304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+196	1.604304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+197	1.614304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+198	1.624304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+199	1.634304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+200	1.644304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+201	1.654304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+202	1.664304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+203	1.674304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+204	1.684304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+205	1.694304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+206	1.704304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+207	1.714304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+208	1.724304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+209	1.734304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+210	1.744304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+211	1.754304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+212	1.764304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+213	1.774304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+214	1.784304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+215	1.794304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+216	1.804304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+217	1.814304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+218	1.824304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+219	1.834304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+220	1.844304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+221	1.854304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+222	1.864304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+223	1.874304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+224	1.884304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+225	1.894304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+226	1.904304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+227	1.914304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+228	1.924304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+229	1.934304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+230	1.944304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+231	1.954304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+232	1.964304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+233	1.974304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+234	1.984304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+235	1.994304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+236	2.000000e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+237	2.001000e-08	1.800000e+00	1.800000e-01	1.800000e-01	
+238	2.003000e-08	1.800000e+00	5.400000e-01	5.400000e-01	
+239	2.007000e-08	1.800000e+00	1.260000e+00	1.260000e+00	
+240	2.010000e-08	1.800000e+00	1.800000e+00	1.800000e+00	
+241	2.010782e-08	1.659274e+00	1.800000e+00	1.800000e+00	
+242	2.012345e-08	1.377821e+00	1.800000e+00	1.800000e+00	
+243	2.015473e-08	8.149157e-01	1.800000e+00	1.800000e+00	
+244	2.019862e-08	2.489650e-02	1.800000e+00	1.800000e+00	
+245	2.020000e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+246	2.020277e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+247	2.020830e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+248	2.021936e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+249	2.024149e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+250	2.027807e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+251	2.031588e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+252	2.039152e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+253	2.045974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+254	2.055974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+255	2.065974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+256	2.075974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+257	2.085974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+258	2.095974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+259	2.105974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+260	2.115974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+261	2.125974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+262	2.135974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+263	2.145974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+264	2.155974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+265	2.165974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+266	2.175974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+267	2.185974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+268	2.195974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+269	2.205974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+270	2.215974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+271	2.225974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+272	2.235974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+273	2.245974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+274	2.255974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+275	2.265974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+276	2.275974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+277	2.285974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+278	2.295974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+279	2.305974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+280	2.315974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+281	2.325974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+282	2.335974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+283	2.345974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+284	2.355974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+285	2.365974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+286	2.375974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+287	2.385974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+288	2.395974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+289	2.405974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+290	2.415974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+291	2.425974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+292	2.435974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+293	2.445974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+294	2.455974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+295	2.465974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+296	2.475974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+297	2.485974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+298	2.495974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+299	2.505974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+300	2.510000e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+301	2.511000e-08	0.000000e+00	1.800000e+00	1.620000e+00	
+302	2.513000e-08	0.000000e+00	1.800000e+00	1.260000e+00	
+303	2.517000e-08	0.000000e+00	1.800000e+00	5.400000e-01	
+304	2.520000e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+305	2.520800e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+306	2.522400e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+307	2.525600e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+308	2.530523e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+309	2.535648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+310	2.545648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+311	2.555648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+312	2.565648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+313	2.575648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+314	2.585648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+315	2.595648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+316	2.605648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+317	2.615648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+318	2.625648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+319	2.635648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+320	2.645648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+321	2.655648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+322	2.665648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+323	2.675648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+324	2.685648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+325	2.695648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+326	2.705648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+327	2.715648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+328	2.725648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+329	2.735648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+330	2.745648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+331	2.755648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+332	2.765648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+333	2.775648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+334	2.785648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+335	2.795648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+336	2.805648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+337	2.815648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+338	2.825648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+339	2.835648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+340	2.845648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+341	2.855648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+342	2.865648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+343	2.875648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+344	2.885648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+345	2.895648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+346	2.905648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+347	2.915648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+348	2.925648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+349	2.935648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+350	2.945648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+351	2.955648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+352	2.965648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+353	2.975648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+354	2.985648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+355	2.995648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+356	3.000000e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+357	3.001000e-08	0.000000e+00	1.800000e+00	1.800000e-01	
+358	3.003000e-08	0.000000e+00	1.800000e+00	5.400000e-01	
+359	3.007000e-08	0.000000e+00	1.800000e+00	1.260000e+00	
+360	3.010000e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+361	3.010756e-08	0.000000e+00	1.663835e+00	1.800000e+00	
+362	3.012269e-08	0.000000e+00	1.391505e+00	1.800000e+00	
+363	3.015295e-08	0.000000e+00	8.468451e-01	1.800000e+00	
+364	3.019430e-08	0.000000e+00	1.026208e-01	1.800000e+00	
+365	3.020000e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+366	3.020413e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+367	3.021239e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+368	3.022892e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+369	3.026197e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+370	3.031323e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+371	3.036738e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+372	3.044712e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+373	3.052909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+374	3.062909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+375	3.072909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+376	3.082909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+377	3.092909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+378	3.102909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+379	3.112909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+380	3.122909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+381	3.132909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+382	3.142909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+383	3.152909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+384	3.162909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+385	3.172909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+386	3.182909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+387	3.192909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+388	3.202909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+389	3.212909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+390	3.222909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+391	3.232909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+392	3.242909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+393	3.252909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+394	3.262909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+395	3.272909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+396	3.282909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+397	3.292909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+398	3.302909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+399	3.312909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+400	3.322909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+401	3.332909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+402	3.342909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+403	3.352909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+404	3.362909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+405	3.372909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+406	3.382909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+407	3.392909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+408	3.402909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+409	3.412909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+410	3.422909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+411	3.432909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+412	3.442909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+413	3.452909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+414	3.462909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+415	3.472909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+416	3.482909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+417	3.492909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+418	3.502909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+419	3.510000e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+420	3.511000e-08	0.000000e+00	0.000000e+00	1.620000e+00	
+421	3.513000e-08	0.000000e+00	0.000000e+00	1.260000e+00	
+422	3.517000e-08	0.000000e+00	0.000000e+00	5.400000e-01	
+423	3.520000e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+424	3.520800e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+425	3.522400e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+426	3.525600e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+427	3.532000e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+428	3.538745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+429	3.548745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+430	3.558745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+431	3.568745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+432	3.578745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+433	3.588745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+434	3.598745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+435	3.608745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+436	3.618745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+437	3.628745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+438	3.638745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+439	3.648745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+440	3.658745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+441	3.668745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+442	3.678745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+443	3.688745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+444	3.698745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+445	3.708745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+446	3.718745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+447	3.728745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+448	3.738745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+449	3.748745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+450	3.758745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+451	3.768745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+452	3.778745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+453	3.788745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+454	3.798745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+455	3.808745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+456	3.818745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+457	3.828745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+458	3.838745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+459	3.848745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+460	3.858745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+461	3.868745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+462	3.878745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+463	3.888745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+464	3.898745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+465	3.908745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+466	3.918745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+467	3.928745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+468	3.938745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+469	3.948745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+470	3.958745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+471	3.968745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+472	3.978745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+473	3.988745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+474	3.998745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+475	4.000000e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+
+                      * xschem sky130 full adder testbench
+                      Transient Analysis  Wed Nov 25 07:41:43  2026
+--------------------------------------------------------------------------------
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+0	0.000000e+00	2.706034e-09	2.706034e-09	
+1	1.000000e-12	6.848546e-03	4.088965e-03	
+2	2.000000e-12	1.143726e-02	6.429263e-03	
+3	4.000000e-12	1.761153e-02	9.113196e-03	
+4	8.000000e-12	2.075376e-02	9.675697e-03	
+5	1.600000e-11	2.055789e-02	9.645412e-03	
+6	3.200000e-11	2.480889e-02	1.079445e-02	
+7	6.400000e-11	1.105377e-01	3.997267e-02	
+8	1.000000e-10	4.310167e-01	1.242567e-01	
+9	1.048132e-10	4.774650e-01	1.031075e-01	
+10	1.144395e-10	5.926905e-01	7.569532e-02	
+11	1.336922e-10	8.637843e-01	5.267929e-02	
+12	1.721976e-10	1.456623e+00	2.379717e-01	
+13	2.096362e-10	1.724977e+00	1.615553e+00	
+14	2.632562e-10	1.775927e+00	1.926840e+00	
+15	3.356513e-10	1.782697e+00	1.700630e+00	
+16	4.135878e-10	1.785813e+00	1.881618e+00	
+17	5.135878e-10	1.793458e+00	1.731499e+00	
+18	6.135878e-10	1.792053e+00	1.859774e+00	
+19	7.135878e-10	1.795059e+00	1.749427e+00	
+20	8.135878e-10	1.793454e+00	1.844423e+00	
+21	9.135878e-10	1.795811e+00	1.762147e+00	
+22	1.013588e-09	1.794555e+00	1.833365e+00	
+23	1.113588e-09	1.796360e+00	1.771389e+00	
+24	1.213588e-09	1.795405e+00	1.825253e+00	
+25	1.313588e-09	1.796783e+00	1.778258e+00	
+26	1.413588e-09	1.796070e+00	1.819225e+00	
+27	1.513588e-09	1.797127e+00	1.783403e+00	
+28	1.613588e-09	1.796601e+00	1.814698e+00	
+29	1.713588e-09	1.797408e+00	1.787291e+00	
+30	1.813588e-09	1.797022e+00	1.811270e+00	
+31	1.913588e-09	1.797643e+00	1.790251e+00	
+32	2.013588e-09	1.797361e+00	1.808660e+00	
+33	2.113588e-09	1.797839e+00	1.792514e+00	
+34	2.213588e-09	1.797636e+00	1.806665e+00	
+35	2.313588e-09	1.798006e+00	1.794249e+00	
+36	2.413588e-09	1.797863e+00	1.805134e+00	
+37	2.513588e-09	1.798151e+00	1.795582e+00	
+38	2.613588e-09	1.798053e+00	1.803958e+00	
+39	2.713588e-09	1.798278e+00	1.796608e+00	
+40	2.813588e-09	1.798213e+00	1.803053e+00	
+41	2.913588e-09	1.798393e+00	1.797398e+00	
+42	3.013588e-09	1.798353e+00	1.802355e+00	
+43	3.113588e-09	1.798498e+00	1.798006e+00	
+44	3.213588e-09	1.798477e+00	1.801816e+00	
+45	3.313588e-09	1.798594e+00	1.798476e+00	
+46	3.413588e-09	1.798585e+00	1.801400e+00	
+47	3.513588e-09	1.798681e+00	1.798837e+00	
+48	3.613588e-09	1.798681e+00	1.801078e+00	
+49	3.713588e-09	1.798760e+00	1.799116e+00	
+50	3.813588e-09	1.798765e+00	1.800830e+00	
+51	3.913588e-09	1.798831e+00	1.799330e+00	
+52	4.013588e-09	1.798840e+00	1.800635e+00	
+53	4.113588e-09	1.798895e+00	1.799493e+00	
+54	4.213588e-09	1.798906e+00	1.800483e+00	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+55	4.313588e-09	1.798954e+00	1.799617e+00	
+56	4.413588e-09	1.798967e+00	1.800362e+00	
+57	4.513588e-09	1.799009e+00	1.799710e+00	
+58	4.613588e-09	1.799023e+00	1.800265e+00	
+59	4.713588e-09	1.799061e+00	1.799777e+00	
+60	4.813588e-09	1.799076e+00	1.800185e+00	
+61	4.913588e-09	1.799110e+00	1.799825e+00	
+62	5.013588e-09	1.799126e+00	1.800117e+00	
+63	5.100000e-09	1.799154e+00	1.799861e+00	
+64	5.110000e-09	1.768876e+00	1.793773e+00	
+65	5.130000e-09	1.729416e+00	1.789394e+00	
+66	5.170000e-09	1.678360e+00	1.787775e+00	
+67	5.200000e-09	1.675237e+00	1.779866e+00	
+68	5.208000e-09	1.703861e+00	1.788121e+00	
+69	5.224000e-09	1.544609e+00	1.791471e+00	
+70	5.256000e-09	1.825006e-01	1.776140e+00	
+71	5.320000e-09	-7.05240e-02	1.781930e+00	
+72	5.391036e-09	7.276230e-02	1.783883e+00	
+73	5.491036e-09	-5.76144e-02	1.787977e+00	
+74	5.591036e-09	6.051391e-02	1.789044e+00	
+75	5.691036e-09	-4.88134e-02	1.790567e+00	
+76	5.791036e-09	5.070816e-02	1.791506e+00	
+77	5.891036e-09	-4.11971e-02	1.791765e+00	
+78	5.991036e-09	4.270338e-02	1.792897e+00	
+79	6.091036e-09	-3.47075e-02	1.792483e+00	
+80	6.191036e-09	3.609852e-02	1.793741e+00	
+81	6.291036e-09	-2.92056e-02	1.792985e+00	
+82	6.391036e-09	3.061381e-02	1.794272e+00	
+83	6.491036e-09	-2.45476e-02	1.793364e+00	
+84	6.591036e-09	2.603769e-02	1.794616e+00	
+85	6.691036e-09	-2.05995e-02	1.793664e+00	
+86	6.791036e-09	2.221217e-02	1.794833e+00	
+87	6.891036e-09	-1.72648e-02	1.793899e+00	
+88	6.991036e-09	1.900301e-02	1.794966e+00	
+89	7.091036e-09	-1.44323e-02	1.794085e+00	
+90	7.191036e-09	1.630620e-02	1.795044e+00	
+91	7.291036e-09	-1.20318e-02	1.794230e+00	
+92	7.391036e-09	1.403690e-02	1.795080e+00	
+93	7.491036e-09	-9.99368e-03	1.794339e+00	
+94	7.591036e-09	1.212484e-02	1.795085e+00	
+95	7.691036e-09	-8.26133e-03	1.794418e+00	
+96	7.791036e-09	1.051239e-02	1.795068e+00	
+97	7.891036e-09	-6.78725e-03	1.794470e+00	
+98	7.991036e-09	9.151777e-03	1.795032e+00	
+99	8.091036e-09	-5.53134e-03	1.794499e+00	
+100	8.191036e-09	8.003307e-03	1.794981e+00	
+101	8.291036e-09	-4.45976e-03	1.794506e+00	
+102	8.391036e-09	7.033959e-03	1.794916e+00	
+103	8.491036e-09	-3.54312e-03	1.794494e+00	
+104	8.591036e-09	6.218366e-03	1.794838e+00	
+105	8.691036e-09	-2.75648e-03	1.794460e+00	
+106	8.791036e-09	5.531398e-03	1.794744e+00	
+107	8.891036e-09	-2.08111e-03	1.794403e+00	
+108	8.991036e-09	4.953752e-03	1.794633e+00	
+109	9.091036e-09	-1.49908e-03	1.794324e+00	
+110	9.191036e-09	4.469667e-03	1.794507e+00	
+111	9.291036e-09	-9.95276e-04	1.794225e+00	
+112	9.391036e-09	4.065869e-03	1.794364e+00	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+113	9.491036e-09	-5.56866e-04	1.794103e+00	
+114	9.591036e-09	3.731238e-03	1.794203e+00	
+115	9.691036e-09	-1.72842e-04	1.793959e+00	
+116	9.791036e-09	3.456521e-03	1.794022e+00	
+117	9.891036e-09	1.652925e-04	1.793789e+00	
+118	9.991036e-09	3.236088e-03	1.793818e+00	
+119	1.000000e-08	1.247915e-03	1.793723e+00	
+120	1.001000e-08	1.402113e-02	1.804072e+00	
+121	1.003000e-08	2.808229e-02	1.811527e+00	
+122	1.006518e-08	1.250067e-01	1.803008e+00	
+123	1.010000e-08	3.993943e-01	1.810621e+00	
+124	1.010667e-08	4.745107e-01	1.799925e+00	
+125	1.012002e-08	6.596770e-01	1.792539e+00	
+126	1.014671e-08	1.141613e+00	1.792107e+00	
+127	1.020000e-08	1.631226e+00	1.779074e+00	
+128	1.020534e-08	1.648956e+00	1.785221e+00	
+129	1.021602e-08	1.679804e+00	1.791972e+00	
+130	1.023737e-08	1.716739e+00	1.791552e+00	
+131	1.028008e-08	1.685408e+00	1.796357e+00	
+132	1.035989e-08	3.209281e-01	1.789827e+00	
+133	1.043274e-08	-7.44456e-02	1.727479e+00	
+134	1.053274e-08	6.857806e-02	1.771370e+00	
+135	1.063274e-08	-2.56988e-02	1.743085e+00	
+136	1.073274e-08	5.055272e-02	1.762797e+00	
+137	1.083274e-08	6.293071e-03	1.760090e+00	
+138	1.093274e-08	5.972407e-02	1.762076e+00	
+139	1.103274e-08	4.755722e-02	1.769934e+00	
+140	1.113274e-08	6.286921e-02	1.750380e+00	
+141	1.123274e-08	4.150428e-02	1.713454e+00	
+142	1.133274e-08	7.154707e-02	1.674866e+00	
+143	1.143274e-08	6.182509e-02	1.673634e+00	
+144	1.153274e-08	7.717168e-02	1.672551e+00	
+145	1.163274e-08	5.157196e-02	1.724243e+00	
+146	1.173274e-08	5.713509e-02	1.666812e+00	
+147	1.183274e-08	5.357066e-02	1.659741e+00	
+148	1.193274e-08	5.057234e-02	1.708507e+00	
+149	1.203274e-08	2.528894e-02	1.742915e+00	
+150	1.213274e-08	2.068798e-02	1.765362e+00	
+151	1.223274e-08	7.053327e-03	1.781456e+00	
+152	1.233274e-08	8.677820e-03	1.788546e+00	
+153	1.243274e-08	6.189593e-04	1.794388e+00	
+154	1.253274e-08	4.596574e-03	1.796065e+00	
+155	1.263274e-08	-1.28925e-03	1.798327e+00	
+156	1.273274e-08	3.169887e-03	1.798445e+00	
+157	1.283274e-08	-1.77179e-03	1.799500e+00	
+158	1.293274e-08	2.588893e-03	1.799233e+00	
+159	1.303274e-08	-1.83222e-03	1.799848e+00	
+160	1.313274e-08	2.287766e-03	1.799524e+00	
+161	1.323274e-08	-1.77534e-03	1.799950e+00	
+162	1.333274e-08	2.091387e-03	1.799652e+00	
+163	1.343274e-08	-1.69164e-03	1.799978e+00	
+164	1.353274e-08	1.942606e-03	1.799722e+00	
+165	1.363274e-08	-1.60710e-03	1.799985e+00	
+166	1.373274e-08	1.820740e-03	1.799768e+00	
+167	1.383274e-08	-1.52847e-03	1.799986e+00	
+168	1.393274e-08	1.716902e-03	1.799801e+00	
+169	1.403274e-08	-1.45681e-03	1.799984e+00	
+170	1.413274e-08	1.626400e-03	1.799826e+00	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+171	1.423274e-08	-1.39166e-03	1.799983e+00	
+172	1.433274e-08	1.546247e-03	1.799847e+00	
+173	1.443274e-08	-1.33214e-03	1.799981e+00	
+174	1.453274e-08	1.474357e-03	1.799864e+00	
+175	1.463274e-08	-1.27745e-03	1.799979e+00	
+176	1.473274e-08	1.409152e-03	1.799878e+00	
+177	1.483274e-08	-1.22677e-03	1.799978e+00	
+178	1.493274e-08	1.349463e-03	1.799891e+00	
+179	1.503274e-08	-1.17952e-03	1.799976e+00	
+180	1.510000e-08	1.284101e-03	1.799902e+00	
+181	1.511000e-08	-4.28731e-02	1.779646e+00	
+182	1.513000e-08	-9.66847e-02	1.746320e+00	
+183	1.517000e-08	-2.42597e-01	1.678058e+00	
+184	1.520000e-08	1.436096e-01	1.617327e+00	
+185	1.520800e-08	5.836784e-01	1.623770e+00	
+186	1.522400e-08	1.227484e+00	1.645714e+00	
+187	1.525600e-08	1.632232e+00	1.688452e+00	
+188	1.530521e-08	1.750822e+00	1.758296e+00	
+189	1.535645e-08	1.772123e+00	1.753134e+00	
+190	1.544304e-08	1.705829e+00	1.148988e-01	
+191	1.554304e-08	1.671152e+00	-1.04893e-02	
+192	1.564304e-08	1.681243e+00	3.676654e-02	
+193	1.574304e-08	1.711344e+00	-1.02996e-02	
+194	1.584304e-08	1.730313e+00	2.209433e-02	
+195	1.594304e-08	1.756997e+00	-1.00576e-02	
+196	1.604304e-08	1.763842e+00	1.653559e-02	
+197	1.614304e-08	1.780414e+00	-1.04453e-02	
+198	1.624304e-08	1.781142e+00	1.369819e-02	
+199	1.634304e-08	1.791679e+00	-1.04700e-02	
+200	1.644304e-08	1.789764e+00	1.202817e-02	
+201	1.654304e-08	1.796949e+00	-1.01982e-02	
+202	1.664304e-08	1.794047e+00	1.090770e-02	
+203	1.674304e-08	1.799288e+00	-9.77261e-03	
+204	1.684304e-08	1.796240e+00	1.007101e-02	
+205	1.694304e-08	1.800262e+00	-9.29312e-03	
+206	1.704304e-08	1.797429e+00	9.391418e-03	
+207	1.714304e-08	1.800612e+00	-8.80708e-03	
+208	1.724304e-08	1.798118e+00	8.808124e-03	
+209	1.734304e-08	1.800687e+00	-8.33412e-03	
+210	1.744304e-08	1.798548e+00	8.287653e-03	
+211	1.754304e-08	1.800647e+00	-7.88246e-03	
+212	1.764304e-08	1.798841e+00	7.812796e-03	
+213	1.774304e-08	1.800564e+00	-7.45474e-03	
+214	1.784304e-08	1.799056e+00	7.374078e-03	
+215	1.794304e-08	1.800471e+00	-7.05130e-03	
+216	1.804304e-08	1.799222e+00	6.965823e-03	
+217	1.814304e-08	1.800381e+00	-6.67132e-03	
+218	1.824304e-08	1.799355e+00	6.584562e-03	
+219	1.834304e-08	1.800300e+00	-6.31349e-03	
+220	1.844304e-08	1.799463e+00	6.227377e-03	
+221	1.854304e-08	1.800230e+00	-5.97660e-03	
+222	1.864304e-08	1.799553e+00	5.892023e-03	
+223	1.874304e-08	1.800169e+00	-5.65911e-03	
+224	1.884304e-08	1.799627e+00	5.576940e-03	
+225	1.894304e-08	1.800118e+00	-5.35986e-03	
+226	1.904304e-08	1.799690e+00	5.280467e-03	
+227	1.914304e-08	1.800075e+00	-5.07761e-03	
+228	1.924304e-08	1.799742e+00	5.001285e-03	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+229	1.934304e-08	1.800040e+00	-4.81128e-03	
+230	1.944304e-08	1.799786e+00	4.738149e-03	
+231	1.954304e-08	1.800011e+00	-4.55994e-03	
+232	1.964304e-08	1.799823e+00	4.489979e-03	
+233	1.974304e-08	1.799986e+00	-4.32257e-03	
+234	1.984304e-08	1.799854e+00	4.255831e-03	
+235	1.994304e-08	1.799967e+00	-4.09830e-03	
+236	2.000000e-08	1.799885e+00	3.956050e-03	
+237	2.001000e-08	1.865454e+00	3.322215e-02	
+238	2.003000e-08	1.973202e+00	7.799907e-02	
+239	2.007000e-08	1.698021e+00	1.476094e-01	
+240	2.010000e-08	7.429625e-01	2.160201e-01	
+241	2.010782e-08	5.720244e-01	1.736671e-01	
+242	2.012345e-08	3.736337e-01	9.896972e-02	
+243	2.015473e-08	4.315271e-01	-4.25089e-02	
+244	2.019862e-08	1.092482e+00	5.114881e-01	
+245	2.020000e-08	1.125298e+00	5.479481e-01	
+246	2.020277e-08	1.189375e+00	6.084469e-01	
+247	2.020830e-08	1.297751e+00	7.271286e-01	
+248	2.021936e-08	1.446473e+00	1.006495e+00	
+249	2.024149e-08	1.609248e+00	1.482923e+00	
+250	2.027807e-08	1.634698e+00	1.765466e+00	
+251	2.031588e-08	9.430834e-01	1.815863e+00	
+252	2.039152e-08	6.538142e-02	1.730341e+00	
+253	2.045974e-08	2.415420e-02	1.783901e+00	
+254	2.055974e-08	2.299583e-02	1.773088e+00	
+255	2.065974e-08	1.695271e-02	1.763716e+00	
+256	2.075974e-08	1.737081e-02	1.780842e+00	
+257	2.085974e-08	1.805834e-02	1.761076e+00	
+258	2.095974e-08	1.477477e-02	1.782944e+00	
+259	2.105974e-08	1.871913e-02	1.762249e+00	
+260	2.115974e-08	1.337717e-02	1.782427e+00	
+261	2.125974e-08	1.902191e-02	1.764380e+00	
+262	2.135974e-08	1.264971e-02	1.781014e+00	
+263	2.145974e-08	1.914922e-02	1.766423e+00	
+264	2.155974e-08	1.234821e-02	1.779385e+00	
+265	2.165974e-08	1.923576e-02	1.768023e+00	
+266	2.175974e-08	1.234488e-02	1.777767e+00	
+267	2.185974e-08	1.937042e-02	1.769081e+00	
+268	2.195974e-08	1.256454e-02	1.776213e+00	
+269	2.205974e-08	1.959405e-02	1.769610e+00	
+270	2.215974e-08	1.296777e-02	1.774692e+00	
+271	2.225974e-08	1.993333e-02	1.769658e+00	
+272	2.235974e-08	1.353011e-02	1.773162e+00	
+273	2.245974e-08	2.039802e-02	1.769278e+00	
+274	2.255974e-08	1.423916e-02	1.771574e+00	
+275	2.265974e-08	2.099248e-02	1.768490e+00	
+276	2.275974e-08	1.511301e-02	1.769862e+00	
+277	2.285974e-08	2.171066e-02	1.767374e+00	
+278	2.295974e-08	1.612567e-02	1.768050e+00	
+279	2.305974e-08	2.254734e-02	1.765963e+00	
+280	2.315974e-08	1.726410e-02	1.766104e+00	
+281	2.325974e-08	2.350400e-02	1.764281e+00	
+282	2.335974e-08	1.852169e-02	1.764006e+00	
+283	2.345974e-08	2.458047e-02	1.762348e+00	
+284	2.355974e-08	1.989335e-02	1.761747e+00	
+285	2.365974e-08	2.577504e-02	1.760179e+00	
+286	2.375974e-08	2.137455e-02	1.759318e+00	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+287	2.385974e-08	2.708486e-02	1.757788e+00	
+288	2.395974e-08	2.296082e-02	1.756716e+00	
+289	2.405974e-08	2.850611e-02	1.755187e+00	
+290	2.415974e-08	2.464738e-02	1.753942e+00	
+291	2.425974e-08	3.003390e-02	1.752389e+00	
+292	2.435974e-08	2.642867e-02	1.750999e+00	
+293	2.445974e-08	3.166223e-02	1.749406e+00	
+294	2.455974e-08	2.829799e-02	1.747895e+00	
+295	2.465974e-08	3.338249e-02	1.746254e+00	
+296	2.475974e-08	3.024617e-02	1.744644e+00	
+297	2.485974e-08	3.518470e-02	1.742953e+00	
+298	2.495974e-08	3.226034e-02	1.741265e+00	
+299	2.505974e-08	3.705306e-02	1.739534e+00	
+300	2.510000e-08	3.380208e-02	1.738830e+00	
+301	2.511000e-08	-5.67173e-03	1.723166e+00	
+302	2.513000e-08	-5.06916e-02	1.696493e+00	
+303	2.517000e-08	-1.79478e-01	1.652460e+00	
+304	2.520000e-08	2.009510e-03	1.636526e+00	
+305	2.520800e-08	2.772356e-01	1.659467e+00	
+306	2.522400e-08	8.708834e-01	1.700664e+00	
+307	2.525600e-08	1.480906e+00	1.741564e+00	
+308	2.530523e-08	1.651432e+00	1.819361e+00	
+309	2.535648e-08	1.674939e+00	1.751647e+00	
+310	2.545648e-08	1.667351e+00	8.786831e-02	
+311	2.555648e-08	1.620558e+00	4.437426e-03	
+312	2.565648e-08	1.602486e+00	4.645316e-02	
+313	2.575648e-08	1.628728e+00	-2.60683e-03	
+314	2.585648e-08	1.660193e+00	2.718496e-02	
+315	2.595648e-08	1.692780e+00	-4.63512e-03	
+316	2.605648e-08	1.719859e+00	1.893328e-02	
+317	2.615648e-08	1.741946e+00	-6.32792e-03	
+318	2.625648e-08	1.757433e+00	1.412531e-02	
+319	2.635648e-08	1.770193e+00	-7.26440e-03	
+320	2.645648e-08	1.777945e+00	1.127909e-02	
+321	2.655648e-08	1.785070e+00	-7.54714e-03	
+322	2.665648e-08	1.788555e+00	9.532213e-03	
+323	2.675648e-08	1.792623e+00	-7.44070e-03	
+324	2.685648e-08	1.793932e+00	8.382083e-03	
+325	2.695648e-08	1.796396e+00	-7.14238e-03	
+326	2.705648e-08	1.796645e+00	7.558378e-03	
+327	2.715648e-08	1.798264e+00	-6.76393e-03	
+328	2.725648e-08	1.798027e+00	6.918649e-03	
+329	2.735648e-08	1.799184e+00	-6.36312e-03	
+330	2.745648e-08	1.798751e+00	6.388643e-03	
+331	2.755648e-08	1.799634e+00	-5.96655e-03	
+332	2.765648e-08	1.799133e+00	5.929689e-03	
+333	2.775648e-08	1.799853e+00	-5.58793e-03	
+334	2.785648e-08	1.799349e+00	5.522338e-03	
+335	2.795648e-08	1.799955e+00	-5.23230e-03	
+336	2.805648e-08	1.799480e+00	5.154539e-03	
+337	2.815648e-08	1.800001e+00	-4.90052e-03	
+338	2.825648e-08	1.799566e+00	4.818832e-03	
+339	2.835648e-08	1.800018e+00	-4.59181e-03	
+340	2.845648e-08	1.799628e+00	4.510315e-03	
+341	2.855648e-08	1.800022e+00	-4.30476e-03	
+342	2.865648e-08	1.799674e+00	4.225503e-03	
+343	2.875648e-08	1.800020e+00	-4.03780e-03	
+344	2.885648e-08	1.799711e+00	3.961744e-03	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+345	2.895648e-08	1.800015e+00	-3.78935e-03	
+346	2.905648e-08	1.799742e+00	3.716955e-03	
+347	2.915648e-08	1.800010e+00	-3.55795e-03	
+348	2.925648e-08	1.799768e+00	3.489369e-03	
+349	2.935648e-08	1.800004e+00	-3.34223e-03	
+350	2.945648e-08	1.799790e+00	3.277486e-03	
+351	2.955648e-08	1.799999e+00	-3.14097e-03	
+352	2.965648e-08	1.799809e+00	3.079971e-03	
+353	2.975648e-08	1.799994e+00	-2.95303e-03	
+354	2.985648e-08	1.799826e+00	2.895649e-03	
+355	2.995648e-08	1.799990e+00	-2.77742e-03	
+356	3.000000e-08	1.799844e+00	2.619587e-03	
+357	3.001000e-08	1.844992e+00	1.638844e-02	
+358	3.003000e-08	1.917830e+00	3.732533e-02	
+359	3.007000e-08	1.490604e+00	7.607510e-02	
+360	3.010000e-08	2.804296e-01	8.965519e-02	
+361	3.010756e-08	1.417198e-01	6.105552e-02	
+362	3.012269e-08	1.727060e-02	2.014801e-02	
+363	3.015295e-08	-2.13295e-02	-1.12764e-01	
+364	3.019430e-08	-2.58743e-02	1.374365e+00	
+365	3.020000e-08	-1.19697e-02	1.522764e+00	
+366	3.020413e-08	-2.86680e-03	1.545276e+00	
+367	3.021239e-08	1.034348e-02	1.576933e+00	
+368	3.022892e-08	2.154406e-02	1.608176e+00	
+369	3.026197e-08	2.687604e-02	1.641885e+00	
+370	3.031323e-08	2.544231e-01	1.694207e+00	
+371	3.036738e-08	8.755704e-01	1.757034e+00	
+372	3.044712e-08	1.588914e+00	1.820405e+00	
+373	3.052909e-08	1.784217e+00	8.761515e-02	
+374	3.062909e-08	1.744052e+00	-1.56874e-02	
+375	3.072909e-08	1.753419e+00	3.902947e-02	
+376	3.082909e-08	1.755987e+00	-2.13155e-02	
+377	3.092909e-08	1.743829e+00	3.606650e-02	
+378	3.102909e-08	1.752405e+00	-1.89619e-02	
+379	3.112909e-08	1.741744e+00	3.383540e-02	
+380	3.122909e-08	1.749737e+00	-1.66216e-02	
+381	3.132909e-08	1.741283e+00	3.151041e-02	
+382	3.142909e-08	1.748080e+00	-1.44944e-02	
+383	3.152909e-08	1.741527e+00	2.932488e-02	
+384	3.162909e-08	1.747420e+00	-1.24941e-02	
+385	3.172909e-08	1.742802e+00	2.723328e-02	
+386	3.182909e-08	1.748594e+00	-1.03265e-02	
+387	3.192909e-08	1.743841e+00	2.723660e-02	
+388	3.202909e-08	1.746554e+00	-7.72574e-03	
+389	3.212909e-08	1.742078e+00	2.578468e-02	
+390	3.222909e-08	1.744343e+00	-7.13934e-03	
+391	3.232909e-08	1.742272e+00	2.253824e-02	
+392	3.242909e-08	1.745570e+00	-6.99511e-03	
+393	3.252909e-08	1.744976e+00	2.018778e-02	
+394	3.262909e-08	1.747815e+00	-6.10956e-03	
+395	3.272909e-08	1.747345e+00	1.851107e-02	
+396	3.282909e-08	1.748945e+00	-4.76342e-03	
+397	3.292909e-08	1.747634e+00	1.752812e-02	
+398	3.302909e-08	1.747021e+00	-2.59460e-03	
+399	3.312909e-08	1.743158e+00	1.806598e-02	
+400	3.322909e-08	1.736857e+00	2.533672e-03	
+401	3.332909e-08	1.721839e+00	2.566756e-02	
+402	3.342909e-08	1.687092e+00	2.403761e-02	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+403	3.352909e-08	1.658503e+00	3.070606e-02	
+404	3.362909e-08	1.670742e+00	3.324267e-03	
+405	3.372909e-08	1.699875e+00	1.375850e-02	
+406	3.382909e-08	1.722942e+00	1.154535e-03	
+407	3.392909e-08	1.742641e+00	8.986516e-03	
+408	3.402909e-08	1.757562e+00	-7.37008e-04	
+409	3.412909e-08	1.768686e+00	6.422366e-03	
+410	3.422909e-08	1.777294e+00	-1.89655e-03	
+411	3.432909e-08	1.783215e+00	4.940200e-03	
+412	3.442909e-08	1.788034e+00	-2.47847e-03	
+413	3.452909e-08	1.791046e+00	4.059182e-03	
+414	3.462909e-08	1.793749e+00	-2.71245e-03	
+415	3.472909e-08	1.795201e+00	3.509918e-03	
+416	3.482909e-08	1.796754e+00	-2.75723e-03	
+417	3.492909e-08	1.797392e+00	3.142995e-03	
+418	3.502909e-08	1.798325e+00	-2.70546e-03	
+419	3.510000e-08	1.798422e+00	2.854191e-03	
+420	3.511000e-08	1.769402e+00	-1.75558e-02	
+421	3.513000e-08	1.732905e+00	-3.91624e-02	
+422	3.517000e-08	1.683555e+00	-4.69560e-02	
+423	3.520000e-08	1.723109e+00	-3.75568e-02	
+424	3.520800e-08	1.772325e+00	-2.22168e-02	
+425	3.522400e-08	1.686137e+00	-8.89819e-03	
+426	3.525600e-08	2.148386e-01	-1.51143e-02	
+427	3.532000e-08	-6.12670e-02	-1.11032e-02	
+428	3.538745e-08	5.342824e-02	5.644139e-03	
+429	3.548745e-08	-4.68504e-02	-4.04741e-03	
+430	3.558745e-08	4.462371e-02	2.477637e-03	
+431	3.568745e-08	-4.01657e-02	-1.62476e-03	
+432	3.578745e-08	3.864064e-02	8.766587e-04	
+433	3.588745e-08	-3.52566e-02	-4.89982e-04	
+434	3.598745e-08	3.401222e-02	6.652697e-05	
+435	3.608745e-08	-3.12873e-02	1.233700e-04	
+436	3.618745e-08	3.019196e-02	-3.87553e-04	
+437	3.628745e-08	-2.79283e-02	4.838626e-04	
+438	3.638745e-08	2.693265e-02	-6.55488e-04	
+439	3.648745e-08	-2.50223e-02	7.004621e-04	
+440	3.658745e-08	2.411190e-02	-8.12771e-04	
+441	3.668745e-08	-2.24641e-02	8.284477e-04	
+442	3.678745e-08	2.164320e-02	-8.98630e-04	
+443	3.688745e-08	-2.02242e-02	8.930858e-04	
+444	3.698745e-08	1.946713e-02	-9.36315e-04	
+445	3.708745e-08	-1.82422e-02	9.182199e-04	
+446	3.718745e-08	1.753943e-02	-9.41187e-04	
+447	3.728745e-08	-1.64697e-02	9.144470e-04	
+448	3.738745e-08	1.582653e-02	-9.22513e-04	
+449	3.748745e-08	-1.48841e-02	8.905200e-04	
+450	3.758745e-08	1.429704e-02	-8.88068e-04	
+451	3.768745e-08	-1.34684e-02	8.530795e-04	
+452	3.778745e-08	1.292994e-02	-8.43419e-04	
+453	3.788745e-08	-1.21981e-02	8.069703e-04	
+454	3.798745e-08	1.170484e-02	-7.92046e-04	
+455	3.808745e-08	-1.10562e-02	7.554842e-04	
+456	3.818745e-08	1.060472e-02	-7.37036e-04	
+457	3.828745e-08	-1.00282e-02	7.011210e-04	
+458	3.838745e-08	9.615230e-03	-6.80461e-04	
+459	3.848745e-08	-9.10156e-03	6.457123e-04	
+460	3.858745e-08	8.723975e-03	-6.23821e-04	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+461	3.868745e-08	-8.26531e-03	5.905829e-04	
+462	3.878745e-08	7.920216e-03	-5.68193e-04	
+463	3.888745e-08	-7.50988e-03	5.366804e-04	
+464	3.898745e-08	7.194573e-03	-5.14337e-04	
+465	3.908745e-08	-6.82682e-03	4.846709e-04	
+466	3.918745e-08	6.538841e-03	-4.62748e-04	
+467	3.928745e-08	-6.20874e-03	4.349903e-04	
+468	3.938745e-08	5.945761e-03	-4.13786e-04	
+469	3.948745e-08	-5.64903e-03	3.879350e-04	
+470	3.958745e-08	5.408939e-03	-3.67637e-04	
+471	3.968745e-08	-5.14187e-03	3.436717e-04	
+472	3.978745e-08	4.922695e-03	-3.24428e-04	
+473	3.988745e-08	-4.68203e-03	3.022860e-04	
+474	3.998745e-08	4.481990e-03	-2.84167e-04	
+475	4.000000e-08	-3.03991e-03	1.576025e-04	
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+a                                            0
+vgnd                                         0
+vnb                                          0
+b                                            0
+p                                  2.70603e-09
+vpwr                                       1.8
+vpb                                        1.8
+cin                                          0
+sum                                2.70603e-09
+g1                                 2.70603e-09
+g2                                 2.70603e-09
+cout                               2.70603e-09
+xfa.vgnd                           2.70514e-09
+xfa.vnb                            2.70512e-09
+xfa.p                              2.70508e-09
+xfa.vpwr                           2.70499e-09
+xfa.vpb                            2.70498e-09
+xfa.g1                             2.70505e-09
+xfa.g2                             2.70505e-09
+vc#branch                                    0
+vb#branch                                    0
+va#branch                                    0
+vpb#branch                         1.29776e-11
+vnb#branch                         -1.4529e-11
+vgnd#branch                       -1.37561e-11
+vdd#branch                        -2.82873e-11
+
+ Reference value :  1.01359e-09 Reference value :  2.91359e-09 Reference value :  6.19104e-09 Reference value :  1.62430e-08 Reference value :  2.61565e-08 Reference value :  3.60875e-08
+No. of Data Rows : 476
+                      * xschem sky130 full adder testbench
+                      Transient Analysis  Wed Nov 25 07:41:43  2026
+--------------------------------------------------------------------------------
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+0	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	
+1	1.000000e-12	1.800000e-02	1.800000e-02	1.800000e-02	
+2	2.000000e-12	3.600000e-02	3.600000e-02	3.600000e-02	
+3	4.000000e-12	7.200000e-02	7.200000e-02	7.200000e-02	
+4	8.000000e-12	1.440000e-01	1.440000e-01	1.440000e-01	
+5	1.600000e-11	2.880000e-01	2.880000e-01	2.880000e-01	
+6	3.200000e-11	5.760000e-01	5.760000e-01	5.760000e-01	
+7	6.400000e-11	1.152000e+00	1.152000e+00	1.152000e+00	
+8	1.000000e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+9	1.048132e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+10	1.144395e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+11	1.336922e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+12	1.721976e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+13	2.096362e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+14	2.632562e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+15	3.356513e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+16	4.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+17	5.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+18	6.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+19	7.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+20	8.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+21	9.135878e-10	1.800000e+00	1.800000e+00	1.800000e+00	
+22	1.013588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+23	1.113588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+24	1.213588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+25	1.313588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+26	1.413588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+27	1.513588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+28	1.613588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+29	1.713588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+30	1.813588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+31	1.913588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+32	2.013588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+33	2.113588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+34	2.213588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+35	2.313588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+36	2.413588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+37	2.513588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+38	2.613588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+39	2.713588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+40	2.813588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+41	2.913588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+42	3.013588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+43	3.113588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+44	3.213588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+45	3.313588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+46	3.413588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+47	3.513588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+48	3.613588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+49	3.713588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+50	3.813588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+51	3.913588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+52	4.013588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+53	4.113588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+54	4.213588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+55	4.313588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+56	4.413588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+57	4.513588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+58	4.613588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+59	4.713588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+60	4.813588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+61	4.913588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+62	5.013588e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+63	5.100000e-09	1.800000e+00	1.800000e+00	1.800000e+00	
+64	5.110000e-09	1.800000e+00	1.800000e+00	1.620000e+00	
+65	5.130000e-09	1.800000e+00	1.800000e+00	1.260000e+00	
+66	5.170000e-09	1.800000e+00	1.800000e+00	5.400000e-01	
+67	5.200000e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+68	5.208000e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+69	5.224000e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+70	5.256000e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+71	5.320000e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+72	5.391036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+73	5.491036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+74	5.591036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+75	5.691036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+76	5.791036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+77	5.891036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+78	5.991036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+79	6.091036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+80	6.191036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+81	6.291036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+82	6.391036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+83	6.491036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+84	6.591036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+85	6.691036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+86	6.791036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+87	6.891036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+88	6.991036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+89	7.091036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+90	7.191036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+91	7.291036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+92	7.391036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+93	7.491036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+94	7.591036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+95	7.691036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+96	7.791036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+97	7.891036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+98	7.991036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+99	8.091036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+100	8.191036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+101	8.291036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+102	8.391036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+103	8.491036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+104	8.591036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+105	8.691036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+106	8.791036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+107	8.891036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+108	8.991036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+109	9.091036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+110	9.191036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+111	9.291036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+112	9.391036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+113	9.491036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+114	9.591036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+115	9.691036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+116	9.791036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+117	9.891036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+118	9.991036e-09	1.800000e+00	1.800000e+00	0.000000e+00	
+119	1.000000e-08	1.800000e+00	1.800000e+00	0.000000e+00	
+120	1.001000e-08	1.800000e+00	1.800000e+00	1.800000e-01	
+121	1.003000e-08	1.800000e+00	1.800000e+00	5.400000e-01	
+122	1.006518e-08	1.800000e+00	1.800000e+00	1.173180e+00	
+123	1.010000e-08	1.800000e+00	1.800000e+00	1.800000e+00	
+124	1.010667e-08	1.800000e+00	1.679878e+00	1.800000e+00	
+125	1.012002e-08	1.800000e+00	1.439634e+00	1.800000e+00	
+126	1.014671e-08	1.800000e+00	9.591467e-01	1.800000e+00	
+127	1.020000e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+128	1.020534e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+129	1.021602e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+130	1.023737e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+131	1.028008e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+132	1.035989e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+133	1.043274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+134	1.053274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+135	1.063274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+136	1.073274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+137	1.083274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+138	1.093274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+139	1.103274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+140	1.113274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+141	1.123274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+142	1.133274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+143	1.143274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+144	1.153274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+145	1.163274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+146	1.173274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+147	1.183274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+148	1.193274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+149	1.203274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+150	1.213274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+151	1.223274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+152	1.233274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+153	1.243274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+154	1.253274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+155	1.263274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+156	1.273274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+157	1.283274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+158	1.293274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+159	1.303274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+160	1.313274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+161	1.323274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+162	1.333274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+163	1.343274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+164	1.353274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+165	1.363274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+166	1.373274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+167	1.383274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+168	1.393274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+169	1.403274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+170	1.413274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+171	1.423274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+172	1.433274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+173	1.443274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+174	1.453274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+175	1.463274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+176	1.473274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+177	1.483274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+178	1.493274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+179	1.503274e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+180	1.510000e-08	1.800000e+00	0.000000e+00	1.800000e+00	
+181	1.511000e-08	1.800000e+00	0.000000e+00	1.620000e+00	
+182	1.513000e-08	1.800000e+00	0.000000e+00	1.260000e+00	
+183	1.517000e-08	1.800000e+00	0.000000e+00	5.400000e-01	
+184	1.520000e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+185	1.520800e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+186	1.522400e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+187	1.525600e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+188	1.530521e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+189	1.535645e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+190	1.544304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+191	1.554304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+192	1.564304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+193	1.574304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+194	1.584304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+195	1.594304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+196	1.604304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+197	1.614304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+198	1.624304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+199	1.634304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+200	1.644304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+201	1.654304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+202	1.664304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+203	1.674304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+204	1.684304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+205	1.694304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+206	1.704304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+207	1.714304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+208	1.724304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+209	1.734304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+210	1.744304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+211	1.754304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+212	1.764304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+213	1.774304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+214	1.784304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+215	1.794304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+216	1.804304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+217	1.814304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+218	1.824304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+219	1.834304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+220	1.844304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+221	1.854304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+222	1.864304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+223	1.874304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+224	1.884304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+225	1.894304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+226	1.904304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+227	1.914304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+228	1.924304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+229	1.934304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+230	1.944304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+231	1.954304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+232	1.964304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+233	1.974304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+234	1.984304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+235	1.994304e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+236	2.000000e-08	1.800000e+00	0.000000e+00	0.000000e+00	
+237	2.001000e-08	1.800000e+00	1.800000e-01	1.800000e-01	
+238	2.003000e-08	1.800000e+00	5.400000e-01	5.400000e-01	
+239	2.007000e-08	1.800000e+00	1.260000e+00	1.260000e+00	
+240	2.010000e-08	1.800000e+00	1.800000e+00	1.800000e+00	
+241	2.010782e-08	1.659274e+00	1.800000e+00	1.800000e+00	
+242	2.012345e-08	1.377821e+00	1.800000e+00	1.800000e+00	
+243	2.015473e-08	8.149157e-01	1.800000e+00	1.800000e+00	
+244	2.019862e-08	2.489650e-02	1.800000e+00	1.800000e+00	
+245	2.020000e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+246	2.020277e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+247	2.020830e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+248	2.021936e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+249	2.024149e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+250	2.027807e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+251	2.031588e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+252	2.039152e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+253	2.045974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+254	2.055974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+255	2.065974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+256	2.075974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+257	2.085974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+258	2.095974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+259	2.105974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+260	2.115974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+261	2.125974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+262	2.135974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+263	2.145974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+264	2.155974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+265	2.165974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+266	2.175974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+267	2.185974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+268	2.195974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+269	2.205974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+270	2.215974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+271	2.225974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+272	2.235974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+273	2.245974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+274	2.255974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+275	2.265974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+276	2.275974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+277	2.285974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+278	2.295974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+279	2.305974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+280	2.315974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+281	2.325974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+282	2.335974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+283	2.345974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+284	2.355974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+285	2.365974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+286	2.375974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+287	2.385974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+288	2.395974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+289	2.405974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+290	2.415974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+291	2.425974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+292	2.435974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+293	2.445974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+294	2.455974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+295	2.465974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+296	2.475974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+297	2.485974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+298	2.495974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+299	2.505974e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+300	2.510000e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+301	2.511000e-08	0.000000e+00	1.800000e+00	1.620000e+00	
+302	2.513000e-08	0.000000e+00	1.800000e+00	1.260000e+00	
+303	2.517000e-08	0.000000e+00	1.800000e+00	5.400000e-01	
+304	2.520000e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+305	2.520800e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+306	2.522400e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+307	2.525600e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+308	2.530523e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+309	2.535648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+310	2.545648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+311	2.555648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+312	2.565648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+313	2.575648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+314	2.585648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+315	2.595648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+316	2.605648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+317	2.615648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+318	2.625648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+319	2.635648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+320	2.645648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+321	2.655648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+322	2.665648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+323	2.675648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+324	2.685648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+325	2.695648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+326	2.705648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+327	2.715648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+328	2.725648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+329	2.735648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+330	2.745648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+331	2.755648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+332	2.765648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+333	2.775648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+334	2.785648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+335	2.795648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+336	2.805648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+337	2.815648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+338	2.825648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+339	2.835648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+340	2.845648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+341	2.855648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+342	2.865648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+343	2.875648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+344	2.885648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+345	2.895648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+346	2.905648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+347	2.915648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+348	2.925648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+349	2.935648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+350	2.945648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+351	2.955648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+352	2.965648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+353	2.975648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+354	2.985648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+355	2.995648e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+356	3.000000e-08	0.000000e+00	1.800000e+00	0.000000e+00	
+357	3.001000e-08	0.000000e+00	1.800000e+00	1.800000e-01	
+358	3.003000e-08	0.000000e+00	1.800000e+00	5.400000e-01	
+359	3.007000e-08	0.000000e+00	1.800000e+00	1.260000e+00	
+360	3.010000e-08	0.000000e+00	1.800000e+00	1.800000e+00	
+361	3.010756e-08	0.000000e+00	1.663835e+00	1.800000e+00	
+362	3.012269e-08	0.000000e+00	1.391505e+00	1.800000e+00	
+363	3.015295e-08	0.000000e+00	8.468451e-01	1.800000e+00	
+364	3.019430e-08	0.000000e+00	1.026208e-01	1.800000e+00	
+365	3.020000e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+366	3.020413e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+367	3.021239e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+368	3.022892e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+369	3.026197e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+370	3.031323e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+371	3.036738e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+372	3.044712e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+373	3.052909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+374	3.062909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+375	3.072909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+376	3.082909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+377	3.092909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+378	3.102909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+379	3.112909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+380	3.122909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+381	3.132909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+382	3.142909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+383	3.152909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+384	3.162909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+385	3.172909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+386	3.182909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+387	3.192909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+388	3.202909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+389	3.212909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+390	3.222909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+391	3.232909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+392	3.242909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+393	3.252909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+394	3.262909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+395	3.272909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+396	3.282909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+397	3.292909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+398	3.302909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+399	3.312909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+400	3.322909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+401	3.332909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+402	3.342909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+403	3.352909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+404	3.362909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+405	3.372909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+406	3.382909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+407	3.392909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+408	3.402909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+409	3.412909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+410	3.422909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+411	3.432909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+412	3.442909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+413	3.452909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+414	3.462909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+415	3.472909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+416	3.482909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+417	3.492909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+418	3.502909e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+419	3.510000e-08	0.000000e+00	0.000000e+00	1.800000e+00	
+420	3.511000e-08	0.000000e+00	0.000000e+00	1.620000e+00	
+421	3.513000e-08	0.000000e+00	0.000000e+00	1.260000e+00	
+422	3.517000e-08	0.000000e+00	0.000000e+00	5.400000e-01	
+423	3.520000e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+424	3.520800e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+425	3.522400e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+426	3.525600e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+427	3.532000e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+428	3.538745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+429	3.548745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+430	3.558745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+431	3.568745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+432	3.578745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+433	3.588745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+434	3.598745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+435	3.608745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+436	3.618745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+437	3.628745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+438	3.638745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+439	3.648745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+440	3.658745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+441	3.668745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+442	3.678745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+443	3.688745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+444	3.698745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+445	3.708745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+446	3.718745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+447	3.728745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+448	3.738745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+449	3.748745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+450	3.758745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+451	3.768745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+452	3.778745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+453	3.788745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+454	3.798745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+455	3.808745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+456	3.818745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+457	3.828745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+458	3.838745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+459	3.848745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+460	3.858745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+
+Index   time            v(a)            v(b)            v(cin)          
+--------------------------------------------------------------------------------
+461	3.868745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+462	3.878745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+463	3.888745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+464	3.898745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+465	3.908745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+466	3.918745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+467	3.928745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+468	3.938745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+469	3.948745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+470	3.958745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+471	3.968745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+472	3.978745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+473	3.988745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+474	3.998745e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+475	4.000000e-08	0.000000e+00	0.000000e+00	0.000000e+00	
+
+                      * xschem sky130 full adder testbench
+                      Transient Analysis  Wed Nov 25 07:41:43  2026
+--------------------------------------------------------------------------------
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+0	0.000000e+00	2.706034e-09	2.706034e-09	
+1	1.000000e-12	6.848546e-03	4.088965e-03	
+2	2.000000e-12	1.143726e-02	6.429263e-03	
+3	4.000000e-12	1.761153e-02	9.113196e-03	
+4	8.000000e-12	2.075376e-02	9.675697e-03	
+5	1.600000e-11	2.055789e-02	9.645412e-03	
+6	3.200000e-11	2.480889e-02	1.079445e-02	
+7	6.400000e-11	1.105377e-01	3.997267e-02	
+8	1.000000e-10	4.310167e-01	1.242567e-01	
+9	1.048132e-10	4.774650e-01	1.031075e-01	
+10	1.144395e-10	5.926905e-01	7.569532e-02	
+11	1.336922e-10	8.637843e-01	5.267929e-02	
+12	1.721976e-10	1.456623e+00	2.379717e-01	
+13	2.096362e-10	1.724977e+00	1.615553e+00	
+14	2.632562e-10	1.775927e+00	1.926840e+00	
+15	3.356513e-10	1.782697e+00	1.700630e+00	
+16	4.135878e-10	1.785813e+00	1.881618e+00	
+17	5.135878e-10	1.793458e+00	1.731499e+00	
+18	6.135878e-10	1.792053e+00	1.859774e+00	
+19	7.135878e-10	1.795059e+00	1.749427e+00	
+20	8.135878e-10	1.793454e+00	1.844423e+00	
+21	9.135878e-10	1.795811e+00	1.762147e+00	
+22	1.013588e-09	1.794555e+00	1.833365e+00	
+23	1.113588e-09	1.796360e+00	1.771389e+00	
+24	1.213588e-09	1.795405e+00	1.825253e+00	
+25	1.313588e-09	1.796783e+00	1.778258e+00	
+26	1.413588e-09	1.796070e+00	1.819225e+00	
+27	1.513588e-09	1.797127e+00	1.783403e+00	
+28	1.613588e-09	1.796601e+00	1.814698e+00	
+29	1.713588e-09	1.797408e+00	1.787291e+00	
+30	1.813588e-09	1.797022e+00	1.811270e+00	
+31	1.913588e-09	1.797643e+00	1.790251e+00	
+32	2.013588e-09	1.797361e+00	1.808660e+00	
+33	2.113588e-09	1.797839e+00	1.792514e+00	
+34	2.213588e-09	1.797636e+00	1.806665e+00	
+35	2.313588e-09	1.798006e+00	1.794249e+00	
+36	2.413588e-09	1.797863e+00	1.805134e+00	
+37	2.513588e-09	1.798151e+00	1.795582e+00	
+38	2.613588e-09	1.798053e+00	1.803958e+00	
+39	2.713588e-09	1.798278e+00	1.796608e+00	
+40	2.813588e-09	1.798213e+00	1.803053e+00	
+41	2.913588e-09	1.798393e+00	1.797398e+00	
+42	3.013588e-09	1.798353e+00	1.802355e+00	
+43	3.113588e-09	1.798498e+00	1.798006e+00	
+44	3.213588e-09	1.798477e+00	1.801816e+00	
+45	3.313588e-09	1.798594e+00	1.798476e+00	
+46	3.413588e-09	1.798585e+00	1.801400e+00	
+47	3.513588e-09	1.798681e+00	1.798837e+00	
+48	3.613588e-09	1.798681e+00	1.801078e+00	
+49	3.713588e-09	1.798760e+00	1.799116e+00	
+50	3.813588e-09	1.798765e+00	1.800830e+00	
+51	3.913588e-09	1.798831e+00	1.799330e+00	
+52	4.013588e-09	1.798840e+00	1.800635e+00	
+53	4.113588e-09	1.798895e+00	1.799493e+00	
+54	4.213588e-09	1.798906e+00	1.800483e+00	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+55	4.313588e-09	1.798954e+00	1.799617e+00	
+56	4.413588e-09	1.798967e+00	1.800362e+00	
+57	4.513588e-09	1.799009e+00	1.799710e+00	
+58	4.613588e-09	1.799023e+00	1.800265e+00	
+59	4.713588e-09	1.799061e+00	1.799777e+00	
+60	4.813588e-09	1.799076e+00	1.800185e+00	
+61	4.913588e-09	1.799110e+00	1.799825e+00	
+62	5.013588e-09	1.799126e+00	1.800117e+00	
+63	5.100000e-09	1.799154e+00	1.799861e+00	
+64	5.110000e-09	1.768876e+00	1.793773e+00	
+65	5.130000e-09	1.729416e+00	1.789394e+00	
+66	5.170000e-09	1.678360e+00	1.787775e+00	
+67	5.200000e-09	1.675237e+00	1.779866e+00	
+68	5.208000e-09	1.703861e+00	1.788121e+00	
+69	5.224000e-09	1.544609e+00	1.791471e+00	
+70	5.256000e-09	1.825006e-01	1.776140e+00	
+71	5.320000e-09	-7.05240e-02	1.781930e+00	
+72	5.391036e-09	7.276230e-02	1.783883e+00	
+73	5.491036e-09	-5.76144e-02	1.787977e+00	
+74	5.591036e-09	6.051391e-02	1.789044e+00	
+75	5.691036e-09	-4.88134e-02	1.790567e+00	
+76	5.791036e-09	5.070816e-02	1.791506e+00	
+77	5.891036e-09	-4.11971e-02	1.791765e+00	
+78	5.991036e-09	4.270338e-02	1.792897e+00	
+79	6.091036e-09	-3.47075e-02	1.792483e+00	
+80	6.191036e-09	3.609852e-02	1.793741e+00	
+81	6.291036e-09	-2.92056e-02	1.792985e+00	
+82	6.391036e-09	3.061381e-02	1.794272e+00	
+83	6.491036e-09	-2.45476e-02	1.793364e+00	
+84	6.591036e-09	2.603769e-02	1.794616e+00	
+85	6.691036e-09	-2.05995e-02	1.793664e+00	
+86	6.791036e-09	2.221217e-02	1.794833e+00	
+87	6.891036e-09	-1.72648e-02	1.793899e+00	
+88	6.991036e-09	1.900301e-02	1.794966e+00	
+89	7.091036e-09	-1.44323e-02	1.794085e+00	
+90	7.191036e-09	1.630620e-02	1.795044e+00	
+91	7.291036e-09	-1.20318e-02	1.794230e+00	
+92	7.391036e-09	1.403690e-02	1.795080e+00	
+93	7.491036e-09	-9.99368e-03	1.794339e+00	
+94	7.591036e-09	1.212484e-02	1.795085e+00	
+95	7.691036e-09	-8.26133e-03	1.794418e+00	
+96	7.791036e-09	1.051239e-02	1.795068e+00	
+97	7.891036e-09	-6.78725e-03	1.794470e+00	
+98	7.991036e-09	9.151777e-03	1.795032e+00	
+99	8.091036e-09	-5.53134e-03	1.794499e+00	
+100	8.191036e-09	8.003307e-03	1.794981e+00	
+101	8.291036e-09	-4.45976e-03	1.794506e+00	
+102	8.391036e-09	7.033959e-03	1.794916e+00	
+103	8.491036e-09	-3.54312e-03	1.794494e+00	
+104	8.591036e-09	6.218366e-03	1.794838e+00	
+105	8.691036e-09	-2.75648e-03	1.794460e+00	
+106	8.791036e-09	5.531398e-03	1.794744e+00	
+107	8.891036e-09	-2.08111e-03	1.794403e+00	
+108	8.991036e-09	4.953752e-03	1.794633e+00	
+109	9.091036e-09	-1.49908e-03	1.794324e+00	
+110	9.191036e-09	4.469667e-03	1.794507e+00	
+111	9.291036e-09	-9.95276e-04	1.794225e+00	
+112	9.391036e-09	4.065869e-03	1.794364e+00	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+113	9.491036e-09	-5.56866e-04	1.794103e+00	
+114	9.591036e-09	3.731238e-03	1.794203e+00	
+115	9.691036e-09	-1.72842e-04	1.793959e+00	
+116	9.791036e-09	3.456521e-03	1.794022e+00	
+117	9.891036e-09	1.652925e-04	1.793789e+00	
+118	9.991036e-09	3.236088e-03	1.793818e+00	
+119	1.000000e-08	1.247915e-03	1.793723e+00	
+120	1.001000e-08	1.402113e-02	1.804072e+00	
+121	1.003000e-08	2.808229e-02	1.811527e+00	
+122	1.006518e-08	1.250067e-01	1.803008e+00	
+123	1.010000e-08	3.993943e-01	1.810621e+00	
+124	1.010667e-08	4.745107e-01	1.799925e+00	
+125	1.012002e-08	6.596770e-01	1.792539e+00	
+126	1.014671e-08	1.141613e+00	1.792107e+00	
+127	1.020000e-08	1.631226e+00	1.779074e+00	
+128	1.020534e-08	1.648956e+00	1.785221e+00	
+129	1.021602e-08	1.679804e+00	1.791972e+00	
+130	1.023737e-08	1.716739e+00	1.791552e+00	
+131	1.028008e-08	1.685408e+00	1.796357e+00	
+132	1.035989e-08	3.209281e-01	1.789827e+00	
+133	1.043274e-08	-7.44456e-02	1.727479e+00	
+134	1.053274e-08	6.857806e-02	1.771370e+00	
+135	1.063274e-08	-2.56988e-02	1.743085e+00	
+136	1.073274e-08	5.055272e-02	1.762797e+00	
+137	1.083274e-08	6.293071e-03	1.760090e+00	
+138	1.093274e-08	5.972407e-02	1.762076e+00	
+139	1.103274e-08	4.755722e-02	1.769934e+00	
+140	1.113274e-08	6.286921e-02	1.750380e+00	
+141	1.123274e-08	4.150428e-02	1.713454e+00	
+142	1.133274e-08	7.154707e-02	1.674866e+00	
+143	1.143274e-08	6.182509e-02	1.673634e+00	
+144	1.153274e-08	7.717168e-02	1.672551e+00	
+145	1.163274e-08	5.157196e-02	1.724243e+00	
+146	1.173274e-08	5.713509e-02	1.666812e+00	
+147	1.183274e-08	5.357066e-02	1.659741e+00	
+148	1.193274e-08	5.057234e-02	1.708507e+00	
+149	1.203274e-08	2.528894e-02	1.742915e+00	
+150	1.213274e-08	2.068798e-02	1.765362e+00	
+151	1.223274e-08	7.053327e-03	1.781456e+00	
+152	1.233274e-08	8.677820e-03	1.788546e+00	
+153	1.243274e-08	6.189593e-04	1.794388e+00	
+154	1.253274e-08	4.596574e-03	1.796065e+00	
+155	1.263274e-08	-1.28925e-03	1.798327e+00	
+156	1.273274e-08	3.169887e-03	1.798445e+00	
+157	1.283274e-08	-1.77179e-03	1.799500e+00	
+158	1.293274e-08	2.588893e-03	1.799233e+00	
+159	1.303274e-08	-1.83222e-03	1.799848e+00	
+160	1.313274e-08	2.287766e-03	1.799524e+00	
+161	1.323274e-08	-1.77534e-03	1.799950e+00	
+162	1.333274e-08	2.091387e-03	1.799652e+00	
+163	1.343274e-08	-1.69164e-03	1.799978e+00	
+164	1.353274e-08	1.942606e-03	1.799722e+00	
+165	1.363274e-08	-1.60710e-03	1.799985e+00	
+166	1.373274e-08	1.820740e-03	1.799768e+00	
+167	1.383274e-08	-1.52847e-03	1.799986e+00	
+168	1.393274e-08	1.716902e-03	1.799801e+00	
+169	1.403274e-08	-1.45681e-03	1.799984e+00	
+170	1.413274e-08	1.626400e-03	1.799826e+00	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+171	1.423274e-08	-1.39166e-03	1.799983e+00	
+172	1.433274e-08	1.546247e-03	1.799847e+00	
+173	1.443274e-08	-1.33214e-03	1.799981e+00	
+174	1.453274e-08	1.474357e-03	1.799864e+00	
+175	1.463274e-08	-1.27745e-03	1.799979e+00	
+176	1.473274e-08	1.409152e-03	1.799878e+00	
+177	1.483274e-08	-1.22677e-03	1.799978e+00	
+178	1.493274e-08	1.349463e-03	1.799891e+00	
+179	1.503274e-08	-1.17952e-03	1.799976e+00	
+180	1.510000e-08	1.284101e-03	1.799902e+00	
+181	1.511000e-08	-4.28731e-02	1.779646e+00	
+182	1.513000e-08	-9.66847e-02	1.746320e+00	
+183	1.517000e-08	-2.42597e-01	1.678058e+00	
+184	1.520000e-08	1.436096e-01	1.617327e+00	
+185	1.520800e-08	5.836784e-01	1.623770e+00	
+186	1.522400e-08	1.227484e+00	1.645714e+00	
+187	1.525600e-08	1.632232e+00	1.688452e+00	
+188	1.530521e-08	1.750822e+00	1.758296e+00	
+189	1.535645e-08	1.772123e+00	1.753134e+00	
+190	1.544304e-08	1.705829e+00	1.148988e-01	
+191	1.554304e-08	1.671152e+00	-1.04893e-02	
+192	1.564304e-08	1.681243e+00	3.676654e-02	
+193	1.574304e-08	1.711344e+00	-1.02996e-02	
+194	1.584304e-08	1.730313e+00	2.209433e-02	
+195	1.594304e-08	1.756997e+00	-1.00576e-02	
+196	1.604304e-08	1.763842e+00	1.653559e-02	
+197	1.614304e-08	1.780414e+00	-1.04453e-02	
+198	1.624304e-08	1.781142e+00	1.369819e-02	
+199	1.634304e-08	1.791679e+00	-1.04700e-02	
+200	1.644304e-08	1.789764e+00	1.202817e-02	
+201	1.654304e-08	1.796949e+00	-1.01982e-02	
+202	1.664304e-08	1.794047e+00	1.090770e-02	
+203	1.674304e-08	1.799288e+00	-9.77261e-03	
+204	1.684304e-08	1.796240e+00	1.007101e-02	
+205	1.694304e-08	1.800262e+00	-9.29312e-03	
+206	1.704304e-08	1.797429e+00	9.391418e-03	
+207	1.714304e-08	1.800612e+00	-8.80708e-03	
+208	1.724304e-08	1.798118e+00	8.808124e-03	
+209	1.734304e-08	1.800687e+00	-8.33412e-03	
+210	1.744304e-08	1.798548e+00	8.287653e-03	
+211	1.754304e-08	1.800647e+00	-7.88246e-03	
+212	1.764304e-08	1.798841e+00	7.812796e-03	
+213	1.774304e-08	1.800564e+00	-7.45474e-03	
+214	1.784304e-08	1.799056e+00	7.374078e-03	
+215	1.794304e-08	1.800471e+00	-7.05130e-03	
+216	1.804304e-08	1.799222e+00	6.965823e-03	
+217	1.814304e-08	1.800381e+00	-6.67132e-03	
+218	1.824304e-08	1.799355e+00	6.584562e-03	
+219	1.834304e-08	1.800300e+00	-6.31349e-03	
+220	1.844304e-08	1.799463e+00	6.227377e-03	
+221	1.854304e-08	1.800230e+00	-5.97660e-03	
+222	1.864304e-08	1.799553e+00	5.892023e-03	
+223	1.874304e-08	1.800169e+00	-5.65911e-03	
+224	1.884304e-08	1.799627e+00	5.576940e-03	
+225	1.894304e-08	1.800118e+00	-5.35986e-03	
+226	1.904304e-08	1.799690e+00	5.280467e-03	
+227	1.914304e-08	1.800075e+00	-5.07761e-03	
+228	1.924304e-08	1.799742e+00	5.001285e-03	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+229	1.934304e-08	1.800040e+00	-4.81128e-03	
+230	1.944304e-08	1.799786e+00	4.738149e-03	
+231	1.954304e-08	1.800011e+00	-4.55994e-03	
+232	1.964304e-08	1.799823e+00	4.489979e-03	
+233	1.974304e-08	1.799986e+00	-4.32257e-03	
+234	1.984304e-08	1.799854e+00	4.255831e-03	
+235	1.994304e-08	1.799967e+00	-4.09830e-03	
+236	2.000000e-08	1.799885e+00	3.956050e-03	
+237	2.001000e-08	1.865454e+00	3.322215e-02	
+238	2.003000e-08	1.973202e+00	7.799907e-02	
+239	2.007000e-08	1.698021e+00	1.476094e-01	
+240	2.010000e-08	7.429625e-01	2.160201e-01	
+241	2.010782e-08	5.720244e-01	1.736671e-01	
+242	2.012345e-08	3.736337e-01	9.896972e-02	
+243	2.015473e-08	4.315271e-01	-4.25089e-02	
+244	2.019862e-08	1.092482e+00	5.114881e-01	
+245	2.020000e-08	1.125298e+00	5.479481e-01	
+246	2.020277e-08	1.189375e+00	6.084469e-01	
+247	2.020830e-08	1.297751e+00	7.271286e-01	
+248	2.021936e-08	1.446473e+00	1.006495e+00	
+249	2.024149e-08	1.609248e+00	1.482923e+00	
+250	2.027807e-08	1.634698e+00	1.765466e+00	
+251	2.031588e-08	9.430834e-01	1.815863e+00	
+252	2.039152e-08	6.538142e-02	1.730341e+00	
+253	2.045974e-08	2.415420e-02	1.783901e+00	
+254	2.055974e-08	2.299583e-02	1.773088e+00	
+255	2.065974e-08	1.695271e-02	1.763716e+00	
+256	2.075974e-08	1.737081e-02	1.780842e+00	
+257	2.085974e-08	1.805834e-02	1.761076e+00	
+258	2.095974e-08	1.477477e-02	1.782944e+00	
+259	2.105974e-08	1.871913e-02	1.762249e+00	
+260	2.115974e-08	1.337717e-02	1.782427e+00	
+261	2.125974e-08	1.902191e-02	1.764380e+00	
+262	2.135974e-08	1.264971e-02	1.781014e+00	
+263	2.145974e-08	1.914922e-02	1.766423e+00	
+264	2.155974e-08	1.234821e-02	1.779385e+00	
+265	2.165974e-08	1.923576e-02	1.768023e+00	
+266	2.175974e-08	1.234488e-02	1.777767e+00	
+267	2.185974e-08	1.937042e-02	1.769081e+00	
+268	2.195974e-08	1.256454e-02	1.776213e+00	
+269	2.205974e-08	1.959405e-02	1.769610e+00	
+270	2.215974e-08	1.296777e-02	1.774692e+00	
+271	2.225974e-08	1.993333e-02	1.769658e+00	
+272	2.235974e-08	1.353011e-02	1.773162e+00	
+273	2.245974e-08	2.039802e-02	1.769278e+00	
+274	2.255974e-08	1.423916e-02	1.771574e+00	
+275	2.265974e-08	2.099248e-02	1.768490e+00	
+276	2.275974e-08	1.511301e-02	1.769862e+00	
+277	2.285974e-08	2.171066e-02	1.767374e+00	
+278	2.295974e-08	1.612567e-02	1.768050e+00	
+279	2.305974e-08	2.254734e-02	1.765963e+00	
+280	2.315974e-08	1.726410e-02	1.766104e+00	
+281	2.325974e-08	2.350400e-02	1.764281e+00	
+282	2.335974e-08	1.852169e-02	1.764006e+00	
+283	2.345974e-08	2.458047e-02	1.762348e+00	
+284	2.355974e-08	1.989335e-02	1.761747e+00	
+285	2.365974e-08	2.577504e-02	1.760179e+00	
+286	2.375974e-08	2.137455e-02	1.759318e+00	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+287	2.385974e-08	2.708486e-02	1.757788e+00	
+288	2.395974e-08	2.296082e-02	1.756716e+00	
+289	2.405974e-08	2.850611e-02	1.755187e+00	
+290	2.415974e-08	2.464738e-02	1.753942e+00	
+291	2.425974e-08	3.003390e-02	1.752389e+00	
+292	2.435974e-08	2.642867e-02	1.750999e+00	
+293	2.445974e-08	3.166223e-02	1.749406e+00	
+294	2.455974e-08	2.829799e-02	1.747895e+00	
+295	2.465974e-08	3.338249e-02	1.746254e+00	
+296	2.475974e-08	3.024617e-02	1.744644e+00	
+297	2.485974e-08	3.518470e-02	1.742953e+00	
+298	2.495974e-08	3.226034e-02	1.741265e+00	
+299	2.505974e-08	3.705306e-02	1.739534e+00	
+300	2.510000e-08	3.380208e-02	1.738830e+00	
+301	2.511000e-08	-5.67173e-03	1.723166e+00	
+302	2.513000e-08	-5.06916e-02	1.696493e+00	
+303	2.517000e-08	-1.79478e-01	1.652460e+00	
+304	2.520000e-08	2.009510e-03	1.636526e+00	
+305	2.520800e-08	2.772356e-01	1.659467e+00	
+306	2.522400e-08	8.708834e-01	1.700664e+00	
+307	2.525600e-08	1.480906e+00	1.741564e+00	
+308	2.530523e-08	1.651432e+00	1.819361e+00	
+309	2.535648e-08	1.674939e+00	1.751647e+00	
+310	2.545648e-08	1.667351e+00	8.786831e-02	
+311	2.555648e-08	1.620558e+00	4.437426e-03	
+312	2.565648e-08	1.602486e+00	4.645316e-02	
+313	2.575648e-08	1.628728e+00	-2.60683e-03	
+314	2.585648e-08	1.660193e+00	2.718496e-02	
+315	2.595648e-08	1.692780e+00	-4.63512e-03	
+316	2.605648e-08	1.719859e+00	1.893328e-02	
+317	2.615648e-08	1.741946e+00	-6.32792e-03	
+318	2.625648e-08	1.757433e+00	1.412531e-02	
+319	2.635648e-08	1.770193e+00	-7.26440e-03	
+320	2.645648e-08	1.777945e+00	1.127909e-02	
+321	2.655648e-08	1.785070e+00	-7.54714e-03	
+322	2.665648e-08	1.788555e+00	9.532213e-03	
+323	2.675648e-08	1.792623e+00	-7.44070e-03	
+324	2.685648e-08	1.793932e+00	8.382083e-03	
+325	2.695648e-08	1.796396e+00	-7.14238e-03	
+326	2.705648e-08	1.796645e+00	7.558378e-03	
+327	2.715648e-08	1.798264e+00	-6.76393e-03	
+328	2.725648e-08	1.798027e+00	6.918649e-03	
+329	2.735648e-08	1.799184e+00	-6.36312e-03	
+330	2.745648e-08	1.798751e+00	6.388643e-03	
+331	2.755648e-08	1.799634e+00	-5.96655e-03	
+332	2.765648e-08	1.799133e+00	5.929689e-03	
+333	2.775648e-08	1.799853e+00	-5.58793e-03	
+334	2.785648e-08	1.799349e+00	5.522338e-03	
+335	2.795648e-08	1.799955e+00	-5.23230e-03	
+336	2.805648e-08	1.799480e+00	5.154539e-03	
+337	2.815648e-08	1.800001e+00	-4.90052e-03	
+338	2.825648e-08	1.799566e+00	4.818832e-03	
+339	2.835648e-08	1.800018e+00	-4.59181e-03	
+340	2.845648e-08	1.799628e+00	4.510315e-03	
+341	2.855648e-08	1.800022e+00	-4.30476e-03	
+342	2.865648e-08	1.799674e+00	4.225503e-03	
+343	2.875648e-08	1.800020e+00	-4.03780e-03	
+344	2.885648e-08	1.799711e+00	3.961744e-03	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+345	2.895648e-08	1.800015e+00	-3.78935e-03	
+346	2.905648e-08	1.799742e+00	3.716955e-03	
+347	2.915648e-08	1.800010e+00	-3.55795e-03	
+348	2.925648e-08	1.799768e+00	3.489369e-03	
+349	2.935648e-08	1.800004e+00	-3.34223e-03	
+350	2.945648e-08	1.799790e+00	3.277486e-03	
+351	2.955648e-08	1.799999e+00	-3.14097e-03	
+352	2.965648e-08	1.799809e+00	3.079971e-03	
+353	2.975648e-08	1.799994e+00	-2.95303e-03	
+354	2.985648e-08	1.799826e+00	2.895649e-03	
+355	2.995648e-08	1.799990e+00	-2.77742e-03	
+356	3.000000e-08	1.799844e+00	2.619587e-03	
+357	3.001000e-08	1.844992e+00	1.638844e-02	
+358	3.003000e-08	1.917830e+00	3.732533e-02	
+359	3.007000e-08	1.490604e+00	7.607510e-02	
+360	3.010000e-08	2.804296e-01	8.965519e-02	
+361	3.010756e-08	1.417198e-01	6.105552e-02	
+362	3.012269e-08	1.727060e-02	2.014801e-02	
+363	3.015295e-08	-2.13295e-02	-1.12764e-01	
+364	3.019430e-08	-2.58743e-02	1.374365e+00	
+365	3.020000e-08	-1.19697e-02	1.522764e+00	
+366	3.020413e-08	-2.86680e-03	1.545276e+00	
+367	3.021239e-08	1.034348e-02	1.576933e+00	
+368	3.022892e-08	2.154406e-02	1.608176e+00	
+369	3.026197e-08	2.687604e-02	1.641885e+00	
+370	3.031323e-08	2.544231e-01	1.694207e+00	
+371	3.036738e-08	8.755704e-01	1.757034e+00	
+372	3.044712e-08	1.588914e+00	1.820405e+00	
+373	3.052909e-08	1.784217e+00	8.761515e-02	
+374	3.062909e-08	1.744052e+00	-1.56874e-02	
+375	3.072909e-08	1.753419e+00	3.902947e-02	
+376	3.082909e-08	1.755987e+00	-2.13155e-02	
+377	3.092909e-08	1.743829e+00	3.606650e-02	
+378	3.102909e-08	1.752405e+00	-1.89619e-02	
+379	3.112909e-08	1.741744e+00	3.383540e-02	
+380	3.122909e-08	1.749737e+00	-1.66216e-02	
+381	3.132909e-08	1.741283e+00	3.151041e-02	
+382	3.142909e-08	1.748080e+00	-1.44944e-02	
+383	3.152909e-08	1.741527e+00	2.932488e-02	
+384	3.162909e-08	1.747420e+00	-1.24941e-02	
+385	3.172909e-08	1.742802e+00	2.723328e-02	
+386	3.182909e-08	1.748594e+00	-1.03265e-02	
+387	3.192909e-08	1.743841e+00	2.723660e-02	
+388	3.202909e-08	1.746554e+00	-7.72574e-03	
+389	3.212909e-08	1.742078e+00	2.578468e-02	
+390	3.222909e-08	1.744343e+00	-7.13934e-03	
+391	3.232909e-08	1.742272e+00	2.253824e-02	
+392	3.242909e-08	1.745570e+00	-6.99511e-03	
+393	3.252909e-08	1.744976e+00	2.018778e-02	
+394	3.262909e-08	1.747815e+00	-6.10956e-03	
+395	3.272909e-08	1.747345e+00	1.851107e-02	
+396	3.282909e-08	1.748945e+00	-4.76342e-03	
+397	3.292909e-08	1.747634e+00	1.752812e-02	
+398	3.302909e-08	1.747021e+00	-2.59460e-03	
+399	3.312909e-08	1.743158e+00	1.806598e-02	
+400	3.322909e-08	1.736857e+00	2.533672e-03	
+401	3.332909e-08	1.721839e+00	2.566756e-02	
+402	3.342909e-08	1.687092e+00	2.403761e-02	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+403	3.352909e-08	1.658503e+00	3.070606e-02	
+404	3.362909e-08	1.670742e+00	3.324267e-03	
+405	3.372909e-08	1.699875e+00	1.375850e-02	
+406	3.382909e-08	1.722942e+00	1.154535e-03	
+407	3.392909e-08	1.742641e+00	8.986516e-03	
+408	3.402909e-08	1.757562e+00	-7.37008e-04	
+409	3.412909e-08	1.768686e+00	6.422366e-03	
+410	3.422909e-08	1.777294e+00	-1.89655e-03	
+411	3.432909e-08	1.783215e+00	4.940200e-03	
+412	3.442909e-08	1.788034e+00	-2.47847e-03	
+413	3.452909e-08	1.791046e+00	4.059182e-03	
+414	3.462909e-08	1.793749e+00	-2.71245e-03	
+415	3.472909e-08	1.795201e+00	3.509918e-03	
+416	3.482909e-08	1.796754e+00	-2.75723e-03	
+417	3.492909e-08	1.797392e+00	3.142995e-03	
+418	3.502909e-08	1.798325e+00	-2.70546e-03	
+419	3.510000e-08	1.798422e+00	2.854191e-03	
+420	3.511000e-08	1.769402e+00	-1.75558e-02	
+421	3.513000e-08	1.732905e+00	-3.91624e-02	
+422	3.517000e-08	1.683555e+00	-4.69560e-02	
+423	3.520000e-08	1.723109e+00	-3.75568e-02	
+424	3.520800e-08	1.772325e+00	-2.22168e-02	
+425	3.522400e-08	1.686137e+00	-8.89819e-03	
+426	3.525600e-08	2.148386e-01	-1.51143e-02	
+427	3.532000e-08	-6.12670e-02	-1.11032e-02	
+428	3.538745e-08	5.342824e-02	5.644139e-03	
+429	3.548745e-08	-4.68504e-02	-4.04741e-03	
+430	3.558745e-08	4.462371e-02	2.477637e-03	
+431	3.568745e-08	-4.01657e-02	-1.62476e-03	
+432	3.578745e-08	3.864064e-02	8.766587e-04	
+433	3.588745e-08	-3.52566e-02	-4.89982e-04	
+434	3.598745e-08	3.401222e-02	6.652697e-05	
+435	3.608745e-08	-3.12873e-02	1.233700e-04	
+436	3.618745e-08	3.019196e-02	-3.87553e-04	
+437	3.628745e-08	-2.79283e-02	4.838626e-04	
+438	3.638745e-08	2.693265e-02	-6.55488e-04	
+439	3.648745e-08	-2.50223e-02	7.004621e-04	
+440	3.658745e-08	2.411190e-02	-8.12771e-04	
+441	3.668745e-08	-2.24641e-02	8.284477e-04	
+442	3.678745e-08	2.164320e-02	-8.98630e-04	
+443	3.688745e-08	-2.02242e-02	8.930858e-04	
+444	3.698745e-08	1.946713e-02	-9.36315e-04	
+445	3.708745e-08	-1.82422e-02	9.182199e-04	
+446	3.718745e-08	1.753943e-02	-9.41187e-04	
+447	3.728745e-08	-1.64697e-02	9.144470e-04	
+448	3.738745e-08	1.582653e-02	-9.22513e-04	
+449	3.748745e-08	-1.48841e-02	8.905200e-04	
+450	3.758745e-08	1.429704e-02	-8.88068e-04	
+451	3.768745e-08	-1.34684e-02	8.530795e-04	
+452	3.778745e-08	1.292994e-02	-8.43419e-04	
+453	3.788745e-08	-1.21981e-02	8.069703e-04	
+454	3.798745e-08	1.170484e-02	-7.92046e-04	
+455	3.808745e-08	-1.10562e-02	7.554842e-04	
+456	3.818745e-08	1.060472e-02	-7.37036e-04	
+457	3.828745e-08	-1.00282e-02	7.011210e-04	
+458	3.838745e-08	9.615230e-03	-6.80461e-04	
+459	3.848745e-08	-9.10156e-03	6.457123e-04	
+460	3.858745e-08	8.723975e-03	-6.23821e-04	
+
+Index   time            v(sum)          v(cout)         
+--------------------------------------------------------------------------------
+461	3.868745e-08	-8.26531e-03	5.905829e-04	
+462	3.878745e-08	7.920216e-03	-5.68193e-04	
+463	3.888745e-08	-7.50988e-03	5.366804e-04	
+464	3.898745e-08	7.194573e-03	-5.14337e-04	
+465	3.908745e-08	-6.82682e-03	4.846709e-04	
+466	3.918745e-08	6.538841e-03	-4.62748e-04	
+467	3.928745e-08	-6.20874e-03	4.349903e-04	
+468	3.938745e-08	5.945761e-03	-4.13786e-04	
+469	3.948745e-08	-5.64903e-03	3.879350e-04	
+470	3.958745e-08	5.408939e-03	-3.67637e-04	
+471	3.968745e-08	-5.14187e-03	3.436717e-04	
+472	3.978745e-08	4.922695e-03	-3.24428e-04	
+473	3.988745e-08	-4.68203e-03	3.022860e-04	
+474	3.998745e-08	4.481990e-03	-2.84167e-04	
+475	4.000000e-08	-3.03991e-03	1.576025e-04	
+Note: Simulation executed from .control section 
