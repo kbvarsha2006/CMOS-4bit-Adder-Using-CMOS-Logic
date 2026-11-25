@@ -1,0 +1,33 @@
+* Xschem 4-bit Adder Testbench: 3 + 5 = 8
+
+.lib "/home/kbvar/open_pdks/sky130/sky130A/libs.tech/ngspice/sky130.lib.spice" tt
+.include "/home/kbvar/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice"
+.include "/home/kbvar/CMOS_4bit_Adder/xschem/netlist/adder_4bit_sim.spice"
+
+.global VPWR VGND VNB VPB
+
+VDD VPWR 0 1.8
+VGND0 VGND 0 0
+VNB0 VNB 0 0
+VPB0 VPB VPWR 0
+
+VA0 A0 0 1.8
+VA1 A1 0 1.8
+VA2 A2 0 0
+VA3 A3 0 0
+
+VB0 B0 0 1.8
+VB1 B1 0 0
+VB2 B2 0 1.8
+VB3 B3 0 0
+
+VCIN Cin 0 0
+
+XADD A0 B0 Cin A1 B1 A2 B2 A3 B3 Sum0 Sum1 Sum2 Sum3 Cout adder_4bit
+
+.control
+op
+print v(Sum0) v(Sum1) v(Sum2) v(Sum3) v(Cout)
+.endc
+
+.end

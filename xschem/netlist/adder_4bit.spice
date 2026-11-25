@@ -1,0 +1,39 @@
+** sch_path: /home/kbvar/CMOS_4bit_Adder/xschem/adder_4bit.sch
+**.subckt adder_4bit A0 B0 Cin A1 B1 A2 B2 A3 B3 Sum0 Sum1 Sum2 Sum3 Cout
+*.ipin A0
+*.ipin B0
+*.ipin Cin
+*.ipin A1
+*.ipin B1
+*.ipin A2
+*.ipin B2
+*.ipin A3
+*.ipin B3
+*.opin Sum0
+*.opin Sum1
+*.opin Sum2
+*.opin Sum3
+*.opin Cout
+FA0 A0 Sum0 Cin B0 net1 full_adder_clean
+FA1 A1 Sum1 net1 B1 net2 full_adder_clean
+FA2 A2 Sum2 net2 B2 net3 full_adder_clean
+FA3 A3 Sum3 net3 B3 Cout full_adder_clean
+**.ends
+
+* expanding   symbol:  full_adder_clean.sym # of pins=5
+** sym_path: /home/kbvar/CMOS_4bit_Adder/xschem/full_adder_clean.sym
+** sch_path: /home/kbvar/CMOS_4bit_Adder/xschem/full_adder_clean.sch
+.subckt full_adder_clean A Sum Cin B Cout
+*.ipin A
+*.ipin B
+*.ipin Cin
+*.opin Sum
+*.opin Cout
+x1 A B VGND VNB VPB VPWR P sky130_fd_sc_hd__xor2_1
+x2 P Cin VGND VNB VPB VPWR Sum sky130_fd_sc_hd__xor2_1
+x3 A B VGND VNB VPB VPWR G1 sky130_fd_sc_hd__and2_1
+x4 P Cin VGND VNB VPB VPWR G2 sky130_fd_sc_hd__and2_1
+x5 G1 G2 VGND VNB VPB VPWR Cout sky130_fd_sc_hd__or2_1
+.ends
+
+.end
