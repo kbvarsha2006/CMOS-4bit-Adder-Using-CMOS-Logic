@@ -4,35 +4,40 @@
 Design and simulation of a 4-bit ripple-carry adder using Verilog HDL and Sky130 CMOS standard cells.
 
 ## Tools Used
-- Xschem
-- Ngspice
-- Magic
-- Sky130 PDK
-- Yosys
+- Verilog HDL
 - Icarus Verilog
 - GTKWave
+- Xschem
+- Ngspice
+- Yosys
+- Magic
+- Sky130 PDK
 
 ## Project Structure
-- verilog/ – Verilog design and testbench
-- simulation/ – SPICE circuits, testbenches and simulation results
-- synthesis/ – Yosys synthesized netlist and logs
-- xschem/ – Schematic files and generated netlist
-- layout/ – Magic layout file
+- verilog/ - Verilog design and testbench
+- simulation/ - SPICE testbenches and simulation results
+- synthesis/ - Synthesized netlist and synthesis log
+- xschem/ - Circuit schematics and generated netlists
+- layout/ - Magic layout and extraction files
 
 ## Completed Work
-- 1-bit full-adder logic design
-- 4-bit ripple-carry adder in Verilog
+- 1-bit full-adder design
+- 4-bit ripple-carry adder design
 - Verilog simulation
 - CMOS transistor-level simulation
-- Sky130 standard-cell full-adder simulation using Ngspice
-- Verification of all 8 full-adder input combinations
+- Sky130 standard-cell simulation
+- Full-adder input combination verification
 - 4-bit adder simulation (3 + 5 = 8)
-- Yosys logic synthesis
-- Initial Magic layout creation
+- Yosys synthesis
+- Xschem schematic design
+- Initial Magic standard-cell placement
+- Initial layout extraction
 - DRC check on the current partial layout: 0 errors
 
-## Work Remaining
-- Complete hierarchical 4-bit Xschem schematic
-- Complete physical layout of the 4-bit adder
-- DRC verification of the complete layout
+## Remaining Work
+- Complete physical routing and layout
+- DRC verification of the complete routed layout
 - LVS verification
+
+## Note
+The current Magic layout is an initial placement and is not a fully routed physical layout. Full DRC and LVS verification are not yet completed.
