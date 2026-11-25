@@ -1,0 +1,44 @@
+* Xschem Full Adder Testbench
+.include "/home/kbvar/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice"
+.lib "/home/kbvar/open_pdks/sky130/sky130A/libs.tech/combined/sky130.lib.spice" tt
+
+VA A 0 PULSE(0 1.8 4n 0.1n 0.1n 4n 8n)
+VB B 0 PULSE(0 1.8 8n 0.1n 0.1n 8n 16n)
+VC Cin 0 PULSE(0 1.8 16n 0.1n 0.1n 16n 32n)
+
+VVPWR VPWR 0 1.8
+VVGND VGND 0 0
+VVNB VNB 0 0
+VVPB VPB 0 1.8
+
+.include "full_adder_clean.spice"
+
+XU1 A B Cin Sum Cout full_adder_clean
+
+.control
+tran 0.1n 33n
+meas tran check_A find v(A) at=6n
+meas tran check_B find v(B) at=6n
+meas tran check_Cin find v(Cin) at=6n
+meas tran check_P find v(xu1.p) at=6n
+meas tran check_G1 find v(xu1.g1) at=6n
+meas tran check_G2 find v(xu1.g2) at=6n
+meas tran sum_000 find v(Sum) at=2n
+meas tran cout_000 find v(Cout) at=2n
+meas tran sum_100 find v(Sum) at=6n
+meas tran cout_100 find v(Cout) at=6n
+meas tran sum_010 find v(Sum) at=10n
+meas tran cout_010 find v(Cout) at=10n
+meas tran sum_110 find v(Sum) at=14n
+meas tran cout_110 find v(Cout) at=14n
+meas tran sum_001 find v(Sum) at=18n
+meas tran cout_001 find v(Cout) at=18n
+meas tran sum_101 find v(Sum) at=22n
+meas tran cout_101 find v(Cout) at=22n
+meas tran sum_011 find v(Sum) at=26n
+meas tran cout_011 find v(Cout) at=26n
+meas tran sum_111 find v(Sum) at=30n
+meas tran cout_111 find v(Cout) at=30n
+.endc
+
+.end

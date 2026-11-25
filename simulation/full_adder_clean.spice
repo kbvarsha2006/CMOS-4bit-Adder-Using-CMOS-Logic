@@ -1,0 +1,13 @@
+** sch_path: /home/kbvar/CMOS_4bit_Adder/xschem/full_adder_clean.sch
+.subckt full_adder_clean A B Cin Sum Cout VGND VNB VPB VPWR
+*.ipin A
+*.ipin B
+*.ipin Cin
+*.opin Sum
+*.opin Cout
+x1 A B VGND VNB VPB VPWR P sky130_fd_sc_hd__xor2_1
+x2 P Cin VGND VNB VPB VPWR Sum sky130_fd_sc_hd__xor2_1
+x3 A B VGND VNB VPB VPWR G1 sky130_fd_sc_hd__and2_1
+x4 P Cin VGND VNB VPB VPWR G2 sky130_fd_sc_hd__and2_1
+x5 G1 G2 VGND VNB VPB VPWR Cout sky130_fd_sc_hd__or2_1
+.ends

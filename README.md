@@ -1,27 +1,33 @@
-# Design and Simulation of a 4-Bit Adder Using CMOS Logic
+# Design of a 4-Bit Adder Using CMOS Logic
 
 ## Project Overview
-This project focuses on the design and simulation of a 4-bit binary adder using Verilog and CMOS logic.
+Design and simulation of a 4-bit ripple-carry adder using Verilog and CMOS logic.
 
 ## Tools Used
 - Xschem
 - Ngspice
+- Magic
 - Sky130 PDK
+- Yosys
 - Icarus Verilog
-- Ubuntu WSL
 
 ## Project Files
+- verilog/ – Verilog design and testbench
+- simulation/ – CMOS transistor-level circuits and simulation results
+- synthesis/ – Yosys synthesized netlist and logs
+- xschem/ – Schematic development files
+- layout/ – Physical layout development
 
-### Verilog
-- `adder4.v` – 4-bit adder design.
--
+## Completed Work
+- 1-bit full-adder design
+- 4-bit ripple-carry adder design
+- Verilog simulation
+- CMOS transistor-level simulation
+- Ngspice verification of 3 + 5 = 8
+- Yosys logic synthesis
+- Sky130 PDK setup
 
-## Exhaustive Verification
-The 4-bit adder was tested with all 512 possible input combinations.
-Result: PASS – All 512 test cases passed.
-
-## Logic Synthesis
-The design was synthesized successfully using Yosys.
-- Synthesized netlist: synthesis/adder4_synth.v
-- Synthesis log: synthesis/synthesis_log.txt
-- Four full-adder stages in the design hierarchy.
+## Work in Progress
+- Hierarchical Xschem schematic
+- Physical layout
+- DRC and LVS verification
