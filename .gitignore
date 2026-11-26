@@ -1,2 +1,9 @@
 pdk/
 verilog/adder4_sim
+
+# Generated files and local backups
+/adder4.vcd
+/adder_test
+/layout/adder4_layout_backup.mag
+/xschem/full_adder_before_fix.sch
+/xschem/full_adder_clean_backup.sch
