@@ -41,3 +41,12 @@ Design and simulation of a 4-bit ripple-carry adder using Verilog HDL and Sky130
 
 ## Note
 The current Magic layout is an initial placement and is not a fully routed physical layout. Full DRC and LVS verification are not yet completed.
+
+## Sky130 Technology Mapping
+
+- Technology mapping performed using Yosys ABC and the Sky130 HD Liberty library.
+- 4-bit adder mapped to Sky130 standard cells.
+- 4 x sky130_fd_sc_hd__maj3_1 cells.
+- 8 x sky130_fd_sc_hd__xnor2_1 cells.
+- Mapped netlist: synthesis/adder4_sky130_mapped.v
+- Mapping log: synthesis/sky130_mapping_log.txt
