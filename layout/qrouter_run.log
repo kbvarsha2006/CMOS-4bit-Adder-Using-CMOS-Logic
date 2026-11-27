@@ -1,0 +1,1069 @@
+Qrouter detail maze router version 1.4.88.T
+Cannot open 9x15 font
+Reading LEF data from file /home/kbvar/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/techlef/sky130_fd_sc_hd__nom.tlef.
+LEF file:  Defines site unithd (ignored)
+LEF file:  Defines site unithddbl (ignored)
+LEF Read, Line 83: Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF Read, Line 116: Unknown keyword "MINENCLOSEDAREA" in LEF file; ignoring.
+LEF Read, Line 119: Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF Read, Line 125: Unknown keyword "MAXIMUMDENSITY" in LEF file; ignoring.
+LEF Read, Line 126: Unknown keyword "DENSITYCHECKWINDOW" in LEF file; ignoring.
+LEF Read, Line 127: Unknown keyword "DENSITYCHECKSTEP" in LEF file; ignoring.
+LEF Read, Line 160: Unknown keyword "MINENCLOSEDAREA" in LEF file; ignoring.
+LEF Read, Line 169: Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF Read, Line 171: Unknown keyword "MAXIMUMDENSITY" in LEF file; ignoring.
+LEF Read, Line 172: Unknown keyword "DENSITYCHECKWINDOW" in LEF file; ignoring.
+LEF Read, Line 173: Unknown keyword "DENSITYCHECKSTEP" in LEF file; ignoring.
+LEF Read, Line 211: Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF Read, Line 213: Unknown keyword "MAXIMUMDENSITY" in LEF file; ignoring.
+LEF Read, Line 214: Unknown keyword "DENSITYCHECKWINDOW" in LEF file; ignoring.
+LEF Read, Line 215: Unknown keyword "DENSITYCHECKSTEP" in LEF file; ignoring.
+LEF Read, Line 253: Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF Read, Line 255: Unknown keyword "MAXIMUMDENSITY" in LEF file; ignoring.
+LEF Read, Line 256: Unknown keyword "DENSITYCHECKWINDOW" in LEF file; ignoring.
+LEF Read, Line 257: Unknown keyword "DENSITYCHECKSTEP" in LEF file; ignoring.
+LEF Read, Line 295: Unknown keyword "ANTENNADIFFSIDEAREARATIO" in LEF file; ignoring.
+LEF read: Processed 801 lines.
+LEF Read: encountered 0 errors and 20 warnings total.
+Horizontal route layer at non-minimum pitch 0.68.  Using smaller pitch 0.34, will route on 1-of-2 tracks for layer met3.
+Vertical route layer at non-minimum pitch 0.92.  Using smaller pitch 0.46, will route on 1-of-2 tracks for layer met4.
+Horizontal route layer at non-minimum pitch 0.68.  Using smaller pitch 0.34, will route on 1-of-2 tracks for layer met4.
+Vertical route layer at non-minimum pitch 0.92.  Using smaller pitch 0.46, will route on 1-of-2 tracks for layer met5.
+Horizontal route layer at non-minimum pitch 3.4.  Using smaller pitch 0.34, will route on 1-of-10 tracks for layer met5.
+Reading LEF data from file /home/kbvar/CMOS_4bit_Adder/layout/sky130_hd_qrouter.lef.
+LEF read: Processed 66800 lines.
+Warning: Via name L1M1_PR_1 has already been defined!
+Warning: Via name L1M1_PR_R_1 has already been defined!
+Warning: Via name L1M1_PR_M_1 has already been defined!
+Warning: Via name L1M1_PR_MR_1 has already been defined!
+Warning: Via name M1M2_PR_1 has already been defined!
+Warning: Via name M1M2_PR_1 has already been defined!
+Warning: Via name M1M2_PR_1 has already been defined!
+Warning: Via name M1M2_PR_R_1 has already been defined!
+Warning: Via name M1M2_PR_R_1 has already been defined!
+Warning: Via name M1M2_PR_R_1 has already been defined!
+Warning: Via name M1M2_PR_M_1 has already been defined!
+Warning: Via name M1M2_PR_M_1 has already been defined!
+Warning: Via name M1M2_PR_M_1 has already been defined!
+Warning: Via name M1M2_PR_MR_1 has already been defined!
+Warning: Via name M1M2_PR_MR_1 has already been defined!
+Warning: Via name M1M2_PR_MR_1 has already been defined!
+Warning: Via name M2M3_PR_1 has already been defined!
+Warning: Via name M2M3_PR_R_1 has already been defined!
+Warning: Via name M2M3_PR_M_1 has already been defined!
+Warning: Via name M2M3_PR_MR_1 has already been defined!
+Warning: Via name M3M4_PR_1 has already been defined!
+Warning: Via name M3M4_PR_R_1 has already been defined!
+Warning: Via name M3M4_PR_M_1 has already been defined!
+Warning: Via name M3M4_PR_MR_1 has already been defined!
+Warning: Via name M3M4_PR_MR_1 has already been defined!
+Warning: Via name M3M4_PR_M_1 has already been defined!
+Warning: Via name M3M4_PR_R_1 has already been defined!
+Warning: Via name M3M4_PR_1 has already been defined!
+Warning: Via name M2M3_PR_MR_1 has already been defined!
+Warning: Via name M2M3_PR_M_1 has already been defined!
+Warning: Via name M2M3_PR_R_1 has already been defined!
+Warning: Via name M2M3_PR_1 has already been defined!
+Warning: Via name M1M2_PR_MR_1 has already been defined!
+Warning: Via name M1M2_PR_M_1 has already been defined!
+Warning: Via name M1M2_PR_R_1 has already been defined!
+Warning: Via name M1M2_PR_1 has already been defined!
+Warning: Via name L1M1_PR_MR_1 has already been defined!
+Warning: Via name L1M1_PR_M_1 has already been defined!
+Warning: Via name L1M1_PR_R_1 has already been defined!
+Warning: Via name L1M1_PR_1 has already been defined!
+Horizontal route layer at non-minimum pitch 0.68.  Using smaller pitch 0.34, will route on 1-of-2 tracks for layer met3.
+Vertical route layer at non-minimum pitch 0.92.  Using smaller pitch 0.46, will route on 1-of-2 tracks for layer met4.
+Horizontal route layer at non-minimum pitch 0.68.  Using smaller pitch 0.34, will route on 1-of-2 tracks for layer met4.
+Vertical route layer at non-minimum pitch 0.92.  Using smaller pitch 0.46, will route on 1-of-2 tracks for layer met5.
+Horizontal route layer at non-minimum pitch 3.4.  Using smaller pitch 0.34, will route on 1-of-10 tracks for layer met5.
+Reading DEF data from file /home/kbvar/CMOS_4bit_Adder/layout/adder4_placed.def.
+Diagnostic: Design name: "adder4"
+  Processed 12 subcell instances total.
+  Processed 14 pins total.
+Number of x channels is 57
+Number of y channels is 75
+  Processed 21 nets total (0 fixed).
+DEF read: Processed 110 lines.
+Output scale = microns / 1000, precision 1
+Diagnostic: memory block is 17100 bytes
+Gate instance _18_ unconnected node VGND
+Gate instance _18_ unconnected node VNB
+Gate instance _18_ unconnected node VPB
+Gate instance _18_ unconnected node VPWR
+Gate instance _17_ unconnected node VGND
+Gate instance _17_ unconnected node VNB
+Gate instance _17_ unconnected node VPB
+Gate instance _17_ unconnected node VPWR
+Gate instance _16_ unconnected node VGND
+Gate instance _16_ unconnected node VNB
+Gate instance _16_ unconnected node VPB
+Gate instance _16_ unconnected node VPWR
+Gate instance _15_ unconnected node VGND
+Gate instance _15_ unconnected node VNB
+Gate instance _15_ unconnected node VPB
+Gate instance _15_ unconnected node VPWR
+Gate instance _14_ unconnected node VGND
+Gate instance _14_ unconnected node VNB
+Gate instance _14_ unconnected node VPB
+Gate instance _14_ unconnected node VPWR
+Gate instance _13_ unconnected node VGND
+Gate instance _13_ unconnected node VNB
+Gate instance _13_ unconnected node VPB
+Gate instance _13_ unconnected node VPWR
+Gate instance _12_ unconnected node VGND
+Gate instance _12_ unconnected node VNB
+Gate instance _12_ unconnected node VPB
+Gate instance _12_ unconnected node VPWR
+Gate instance _11_ unconnected node VGND
+Gate instance _11_ unconnected node VNB
+Gate instance _11_ unconnected node VPB
+Gate instance _11_ unconnected node VPWR
+Gate instance _10_ unconnected node VGND
+Gate instance _10_ unconnected node VNB
+Gate instance _10_ unconnected node VPB
+Gate instance _10_ unconnected node VPWR
+Gate instance _09_ unconnected node VGND
+Gate instance _09_ unconnected node VNB
+Gate instance _09_ unconnected node VPB
+Gate instance _09_ unconnected node VPWR
+Gate instance _08_ unconnected node VGND
+Gate instance _08_ unconnected node VNB
+Gate instance _08_ unconnected node VPB
+Gate instance _08_ unconnected node VPWR
+Gate instance _07_ unconnected node VGND
+Gate instance _07_ unconnected node VNB
+Gate instance _07_ unconnected node VPB
+Gate instance _07_ unconnected node VPWR
+There are 21 nets in this design.
+multi-port mask has trunk line (0 10) to (23 10)
+Source node @ 10.81um 4.25um layer=0 grid=(23 12)
+netname = A[0], route number 0
+Pass 1 (maxcost is 23)
+Pass 2 (maxcost is 46)
+Found a route of cost |33
+Commit: TotalRoutes = 0
+
+Commit to a route of cost 33
+Between positions (12 12) and (23 11)
+netname = A[0], route number 1
+Pass 1 (maxcost is 16)
+Pass 2 (maxcost is 32)
+Found a route of cost 
+Pass 3 (maxcost is 64)
+
+Commit: TotalRoutes = 1
+
+Commit to a route of cost 37
+Between positions (0 1) and (11 11)
+Finished routing net A[0]
+Nets remaining: 20
+multi-port mask has trunk line (0 10) to (21 10)
+Source node @ 9.89um 3.91um layer=0 grid=(21 11)
+netname = B[0], route number 2
+Pass 1 (maxcost is 22)
+Pass 2 (maxcost is 44)
+Pass 3 (maxcost is 88)
+Found a route of cost 
+Commit: TotalRoutes = 2
+
+Commit to a route of cost 67
+Between positions (0 2) and (21 12)
+netname = B[0], route number 3
+Pass 1 (maxcost is 33)
+Pass 2 (maxcost is 66)
+Pass 3 (maxcost is 66)
+Pass 4 (maxcost is 66)
+Pass 5 (maxcost is 66)
+Pass 6 (maxcost is 132)
+Pass 7 (maxcost is 132)
+Pass 8 (maxcost is 132)
+Pass 9 (maxcost is 132)
+Pass 10 (maxcost is 132)
+Fell through 10 passes
+(9.89,3.91) net=B[0]
+netname = B[0], route number 3
+Pass 1 (maxcost is 66)
+Pass 2 (maxcost is 66)
+Pass 3 (maxcost is 66)
+Pass 4 (maxcost is 66)
+Pass 5 (maxcost is 66)
+Pass 6 (maxcost is 66)
+Pass 7 (maxcost is 66)
+Pass 8 (maxcost is 66)
+Pass 9 (maxcost is 66)
+Pass 10 (maxcost is 66)
+Fell through 10 passes
+(9.89,3.91) net=B[0]
+Failed to route net B[0]
+multi-port mask has trunk line (0 10) to (34 10)
+Source node @ 6.21um 6.97um layer=0 grid=(13 20)
+netname = A[1], route number 3
+Pass 1 (maxcost is 33)
+Pass 2 (maxcost is 66)
+Found a route of cost |64|63
+Commit: TotalRoutes = 3
+
+Commit to a route of cost 63
+Between positions (31 12) and (13 19)
+netname = A[1], route number 4
+Pass 1 (maxcost is 31)
+Pass 2 (maxcost is 62)
+Pass 3 (maxcost is 62)
+Pass 4 (maxcost is 62)
+Pass 5 (maxcost is 124)
+Pass 6 (maxcost is 124)
+Pass 7 (maxcost is 124)
+Pass 8 (maxcost is 124)
+Pass 9 (maxcost is 124)
+Pass 10 (maxcost is 124)
+Fell through 10 passes
+(6.21,6.97) net=A[1]
+netname = A[1], route number 4
+Pass 1 (maxcost is 62)
+Pass 2 (maxcost is 62)
+Pass 3 (maxcost is 62)
+Pass 4 (maxcost is 62)
+Pass 5 (maxcost is 62)
+Pass 6 (maxcost is 62)
+Pass 7 (maxcost is 62)
+Pass 8 (maxcost is 62)
+Pass 9 (maxcost is 62)
+Pass 10 (maxcost is 62)
+Fell through 10 passes
+(6.21,6.97) net=A[1]
+Failed to route net A[1]
+multi-port mask has trunk line (0 5) to (33 5)
+Source node @ 5.29um 6.63um layer=0 grid=(11 19)
+netname = B[1], route number 4
+Pass 1 (maxcost is 32)
+Pass 2 (maxcost is 64)
+Found a route of cost 
+Commit: TotalRoutes = 4
+
+Commit to a route of cost 50
+Between positions (0 4) and (11 19)
+netname = B[1], route number 5
+Pass 1 (maxcost is 25)
+Pass 2 (maxcost is 50)
+Found a route of cost 
+Commit: TotalRoutes = 5
+
+Commit to a route of cost 47
+Between positions (32 11) and (11 4)
+Finished routing net B[1]
+Nets remaining: 19
+multi-port mask has trunk line (0 20) to (24 20)
+Source node @ 6.21um 9.69um layer=0 grid=(13 28)
+netname = A[2], route number 6
+Pass 1 (maxcost is 23)
+Pass 2 (maxcost is 46)
+Found a route of cost 
+Pass 3 (maxcost is 92)
+
+Commit: TotalRoutes = 6
+
+Commit to a route of cost 48
+Between positions (21 20) and (13 27)
+netname = A[2], route number 7
+Pass 1 (maxcost is 46)
+Pass 2 (maxcost is 92)
+Pass 3 (maxcost is 92)
+Pass 4 (maxcost is 92)
+Pass 5 (maxcost is 92)
+Pass 6 (maxcost is 92)
+Pass 7 (maxcost is 92)
+Pass 8 (maxcost is 92)
+Pass 9 (maxcost is 92)
+Pass 10 (maxcost is 92)
+Fell through 10 passes
+(6.21,9.69) net=A[2]
+netname = A[2], route number 7
+Pass 1 (maxcost is 46)
+Pass 2 (maxcost is 46)
+Pass 3 (maxcost is 46)
+Pass 4 (maxcost is 46)
+Pass 5 (maxcost is 46)
+Pass 6 (maxcost is 46)
+Pass 7 (maxcost is 46)
+Pass 8 (maxcost is 46)
+Pass 9 (maxcost is 46)
+Pass 10 (maxcost is 46)
+Fell through 10 passes
+(6.21,9.69) net=A[2]
+Failed to route net A[2]
+multi-port mask has trunk line (0 20) to (23 20)
+Source node @ 5.29um 9.35um layer=0 grid=(11 27)
+netname = B[2], route number 7
+Pass 1 (maxcost is 24)
+Pass 2 (maxcost is 48)
+Found a route of cost 
+Pass 3 (maxcost is 96)
+
+Commit: TotalRoutes = 7
+
+Commit to a route of cost 54
+Between positions (22 19) and (12 27)
+netname = B[2], route number 8
+Pass 1 (maxcost is 48)
+Found a route of cost |43
+Commit: TotalRoutes = 8
+
+Commit to a route of cost 43
+Between positions (0 6) and (11 19)
+Finished routing net B[2]
+Nets remaining: 18
+multi-port mask has trunk line (0 20) to (33 20)
+Source node @ 15.41um 9.69um layer=0 grid=(33 28)
+netname = A[3], route number 9
+Pass 1 (maxcost is 33)
+Pass 2 (maxcost is 66)
+Found a route of cost |60
+Commit: TotalRoutes = 9
+
+Commit to a route of cost 60
+Between positions (22 28) and (33 27)
+netname = A[3], route number 10
+Pass 1 (maxcost is 30)
+Pass 2 (maxcost is 60)
+Pass 3 (maxcost is 120)
+Pass 4 (maxcost is 120)
+Pass 5 (maxcost is 120)
+Pass 6 (maxcost is 120)
+Pass 7 (maxcost is 120)
+Pass 8 (maxcost is 120)
+Pass 9 (maxcost is 120)
+Pass 10 (maxcost is 120)
+Fell through 10 passes
+(15.41,9.69) net=A[3]
+netname = A[3], route number 10
+Pass 1 (maxcost is 60)
+Pass 2 (maxcost is 60)
+Pass 3 (maxcost is 60)
+Pass 4 (maxcost is 60)
+Pass 5 (maxcost is 60)
+Pass 6 (maxcost is 60)
+Pass 7 (maxcost is 60)
+Pass 8 (maxcost is 60)
+Pass 9 (maxcost is 60)
+Pass 10 (maxcost is 120)
+Fell through 10 passes
+(15.41,9.69) net=A[3]
+Failed to route net A[3]
+multi-port mask has trunk line (0 20) to (31 20)
+Source node @ 14.49um 9.35um layer=0 grid=(31 27)
+netname = B[3], route number 10
+Pass 1 (maxcost is 32)
+Pass 2 (maxcost is 64)
+Pass 3 (maxcost is 128)
+Found a route of cost 
+Commit: TotalRoutes = 10
+
+Commit to a route of cost 113
+Between positions (0 8) and (31 27)
+netname = B[3], route number 11
+Pass 1 (maxcost is 56)
+Pass 2 (maxcost is 56)
+Pass 3 (maxcost is 56)
+Pass 4 (maxcost is 56)
+Pass 5 (maxcost is 56)
+Pass 6 (maxcost is 56)
+Pass 7 (maxcost is 56)
+Pass 8 (maxcost is 56)
+Pass 9 (maxcost is 112)
+Pass 10 (maxcost is 112)
+Fell through 10 passes
+(14.49,9.35) net=B[3]
+netname = B[3], route number 11
+Pass 1 (maxcost is 56)
+Pass 2 (maxcost is 56)
+Pass 3 (maxcost is 56)
+Pass 4 (maxcost is 56)
+Pass 5 (maxcost is 56)
+Pass 6 (maxcost is 56)
+Pass 7 (maxcost is 56)
+Pass 8 (maxcost is 56)
+Pass 9 (maxcost is 56)
+Pass 10 (maxcost is 56)
+Fell through 10 passes
+(14.49,9.35) net=B[3]
+Failed to route net B[3]
+multi-port mask has trunk line (16 9) to (16 35)
+Source node @ 10.81um 12.07um layer=0 grid=(23 35)
+netname = Cin, route number 11
+Pass 1 (maxcost is 26)
+Pass 2 (maxcost is 52)
+Pass 3 (maxcost is 104)
+Found a route of cost 
+Commit: TotalRoutes = 11
+
+Commit to a route of cost 92
+Between positions (25 10) and (22 35)
+netname = Cin, route number 12
+Pass 1 (maxcost is 46)
+Pass 2 (maxcost is 92)
+Pass 3 (maxcost is 92)
+Pass 4 (maxcost is 92)
+Found a route of cost 
+Commit: TotalRoutes = 12
+
+Commit to a route of cost 46
+Between positions (0 9) and (16 10)
+Finished routing net Cin
+Nets remaining: 17
+multi-port mask has trunk line (25 9) to (25 35)
+Source node @ 15.41um 12.07um layer=0 grid=(33 35)
+netname = _01_, route number 13
+Pass 1 (maxcost is 26)
+Pass 2 (maxcost is 52)
+Found a route of cost 
+Pass 3 (maxcost is 104)
+
+Commit: TotalRoutes = 13
+
+Commit to a route of cost 53
+Between positions (27 13) and (32 35)
+netname = _01_, route number 14
+Pass 1 (maxcost is 52)
+Pass 2 (maxcost is 52)
+Found a route of cost |36
+Commit: TotalRoutes = 14
+
+Commit to a route of cost 36
+Between positions (15 18) and (26 17)
+Finished routing net _01_
+Nets remaining: 16
+multi-port mask has trunk line (15 20) to (33 20)
+Source node @ 7.13um 9.35um layer=0 grid=(15 27)
+netname = _03_, route number 15
+Pass 1 (maxcost is 17)
+Pass 2 (maxcost is 34)
+Found a route of cost 
+Commit: TotalRoutes = 15
+
+Commit to a route of cost 32
+Between positions (17 20) and (15 26)
+netname = _03_, route number 16
+Pass 1 (maxcost is 16)
+Pass 2 (maxcost is 32)
+Pass 3 (maxcost is 64)
+Found a route of cost 
+Pass 4 (maxcost is 128)
+
+Commit: TotalRoutes = 16
+
+Commit to a route of cost 68
+Between positions (32 19) and (16 23)
+Finished routing net _03_
+Nets remaining: 15
+multi-port mask has trunk line (13 29) to (35 29)
+Source node @ 6.21um 12.07um layer=0 grid=(13 35)
+netname = _05_, route number 17
+Pass 1 (maxcost is 23)
+Pass 2 (maxcost is 46)
+Found a route of cost 
+Commit: TotalRoutes = 17
+
+Commit to a route of cost 35
+Between positions (17 29) and (12 35)
+netname = _05_, route number 18
+Pass 1 (maxcost is 17)
+Pass 2 (maxcost is 34)
+Pass 3 (maxcost is 68)
+Found a route of cost 
+Commit: TotalRoutes = 18
+
+Commit to a route of cost 47
+Between positions (35 27) and (14 29)
+Finished routing net _05_
+Nets remaining: 14
+Two-port mask has bounding box (26 1) to (53 33)
+Source node @ 12.19um 11.39um layer=0 grid=(26 33)
+netname = Sum[0], route number 19
+Pass 1 (maxcost is 75)
+Pass 2 (maxcost is 150)
+Found a route of cost 
+Commit: TotalRoutes = 19
+
+Commit to a route of cost 94
+Between positions (53 1) and (27 33)
+Finished routing net Sum[0]
+Nets remaining: 13
+Two-port mask has bounding box (36 2) to (53 33)
+Source node @ 16.79um 11.39um layer=0 grid=(36 33)
+netname = Sum[1], route number 20
+Pass 1 (maxcost is 73)
+Found a route of cost 
+Pass 2 (maxcost is 146)
+
+Commit: TotalRoutes = 20
+
+Commit to a route of cost 83
+Between positions (53 2) and (36 35)
+Finished routing net Sum[1]
+Nets remaining: 12
+Two-port mask has bounding box (36 3) to (53 17)
+Source node @ 16.79um 5.95um layer=0 grid=(36 17)
+netname = Sum[2], route number 21
+Pass 1 (maxcost is 39)
+Pass 2 (maxcost is 78)
+Found a route of cost 
+Commit: TotalRoutes = 21
+
+Commit to a route of cost 75
+Between positions (53 3) and (37 17)
+Finished routing net Sum[2]
+Nets remaining: 11
+Two-port mask has bounding box (16 4) to (53 33)
+Source node @ 7.59um 11.39um layer=0 grid=(16 33)
+netname = Sum[3], route number 22
+Pass 1 (maxcost is 79)
+Pass 2 (maxcost is 158)
+Found a route of cost 
+Commit: TotalRoutes = 22
+
+Commit to a route of cost 115
+Between positions (53 4) and (16 35)
+Finished routing net Sum[3]
+Nets remaining: 10
+Two-port mask has bounding box (37 5) to (53 25)
+Source node @ 17.25um 8.67um layer=0 grid=(37 25)
+netname = Cout, route number 23
+Pass 1 (maxcost is 51)
+Pass 2 (maxcost is 102)
+Found a route of cost 
+Commit: TotalRoutes = 23
+
+Commit to a route of cost 61
+Between positions (53 5) and (37 26)
+Finished routing net Cout
+Nets remaining: 9
+Two-port mask has bounding box (15 14) to (21 36)
+Source node @ 11.27um 12.07um layer=0 grid=(24 35)
+netname = _00_, route number 24
+Pass 1 (maxcost is 55)
+Pass 2 (maxcost is 110)
+Found a route of cost 
+Commit: TotalRoutes = 24
+
+Commit to a route of cost 78
+Between positions (16 13) and (21 36)
+Finished routing net _00_
+Nets remaining: 8
+Two-port mask has bounding box (34 14) to (35 35)
+Source node @ 15.87um 12.07um layer=0 grid=(34 35)
+netname = _02_, route number 25
+Pass 1 (maxcost is 55)
+Found a route of cost 
+Commit: TotalRoutes = 25
+
+Commit to a route of cost 50
+Between positions (36 13) and (33 36)
+Finished routing net _02_
+Nets remaining: 7
+Two-port mask has bounding box (26 19) to (31 20)
+Source node @ 15.87um 6.63um layer=0 grid=(34 19)
+netname = _04_, route number 26
+Pass 1 (maxcost is 19)
+Found a route of cost 
+Pass 2 (maxcost is 38)
+
+Commit: TotalRoutes = 26
+
+Commit to a route of cost 27
+Between positions (26 21) and (31 20)
+Finished routing net _04_
+Nets remaining: 6
+Two-port mask has bounding box (14 30) to (25 35)
+Source node @ 6.67um 12.07um layer=0 grid=(14 35)
+netname = _06_, route number 27
+Pass 1 (maxcost is 31)
+Pass 2 (maxcost is 62)
+Pass 3 (maxcost is 124)
+Pass 4 (maxcost is 124)
+Pass 5 (maxcost is 124)
+Found a route of cost 
+Commit: TotalRoutes = 27
+
+Commit to a route of cost 58
+Between positions (26 27) and (13 36)
+Finished routing net _06_
+Nets remaining: 5
+
+----------------------------------------------
+Progress: Stage 1 total routes completed: 28
+Failed net routes: 5
+----------------------------------------------
+------------------------------
+Nets remaining: 5
+------------------------------
+Routing net B[3] with collisions
+multi-port mask has trunk line (0 25) to (31 25)
+Source node @ 14.49um 9.35um layer=0 grid=(31 27)
+netname = B[3], route number 28
+Pass 1 (maxcost is 57)
+Pass 2 (maxcost is 114)
+Found a route of cost 
+Commit: TotalRoutes = 28
+
+Commit to a route of cost 75
+Between positions (22 27) and (21 21)
+Best route of B[3] collides with net: A[3] 
+Ripping up blocking net A[3]
+------------------------------
+Nets remaining: 5
+------------------------------
+Routing net A[3] with collisions
+multi-port mask has trunk line (0 25) to (33 25)
+Source node @ 15.41um 9.69um layer=0 grid=(33 28)
+netname = A[3], route number 29
+Pass 1 (maxcost is 58)
+Found a route of cost 
+Commit: TotalRoutes = 29
+
+Commit to a route of cost 55
+Between positions (23 28) and (33 27)
+netname = A[3], route number 30
+Pass 1 (maxcost is 27)
+Pass 2 (maxcost is 54)
+Pass 3 (maxcost is 108)
+Pass 4 (maxcost is 216)
+Found a route of cost 
+Commit: TotalRoutes = 30
+
+Commit to a route of cost 142
+Between positions (0 7) and (23 28)
+Best route of A[3] collides with net: A[0] 
+Ripping up blocking net A[0]
+------------------------------
+Nets remaining: 5
+------------------------------
+Routing net A[2] with collisions
+multi-port mask has trunk line (0 17) to (24 17)
+Source node @ 6.21um 9.69um layer=0 grid=(13 28)
+netname = A[2], route number 31
+Pass 1 (maxcost is 48)
+Found a route of cost 
+Pass 2 (maxcost is 96)
+
+Commit: TotalRoutes = 31
+
+Commit to a route of cost 57
+Between positions (0 5) and (13 21)
+------------------------------
+Nets remaining: 4
+------------------------------
+Routing net A[1] with collisions
+multi-port mask has trunk line (0 3) to (34 3)
+Source node @ 6.21um 6.97um layer=0 grid=(13 20)
+netname = A[1], route number 32
+Pass 1 (maxcost is 58)
+Found a route of cost 
+Commit: TotalRoutes = 32
+
+Commit to a route of cost 51
+Between positions (0 3) and (16 11)
+------------------------------
+Nets remaining: 3
+------------------------------
+Routing net B[0] with collisions
+multi-port mask has trunk line (0 5) to (21 5)
+Source node @ 9.89um 3.91um layer=0 grid=(21 11)
+netname = B[0], route number 33
+Pass 1 (maxcost is 47)
+Found a route of cost 
+Commit: TotalRoutes = 33
+
+Commit to a route of cost 20
+Between positions (12 11) and (12 9)
+------------------------------
+Nets remaining: 2
+------------------------------
+Routing net A[3] with collisions
+------------------------------
+Nets remaining: 1
+------------------------------
+Routing net A[0] with collisions
+multi-port mask has trunk line (0 2) to (23 2)
+Source node @ 10.81um 4.25um layer=0 grid=(23 12)
+netname = A[0], route number 34
+Pass 1 (maxcost is 48)
+Pass 2 (maxcost is 96)
+Found a route of cost |64
+Commit: TotalRoutes = 34
+
+Commit to a route of cost 64
+Between positions (11 12) and (23 11)
+netname = A[0], route number 35
+Pass 1 (maxcost is 32)
+Pass 2 (maxcost is 64)
+Found a route of cost 
+Commit: TotalRoutes = 35
+
+Commit to a route of cost 36
+Between positions (0 1) and (11 11)
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 36
+No failed routes!
+----------------------------------------------
+Source node @ 10.81um 4.25um layer=0 grid=(23 12)
+netname = A[0], route number 36
+Pass 1 (maxcost is 23)
+Pass 2 (maxcost is 46)
+Pass 3 (maxcost is 92)
+Found a route of cost |64
+Commit: TotalRoutes = 36
+
+Commit to a route of cost 64
+Between positions (11 12) and (23 11)
+netname = A[0], route number 37
+Pass 1 (maxcost is 32)
+Pass 2 (maxcost is 64)
+Found a route of cost 
+Commit: TotalRoutes = 37
+
+Commit to a route of cost 36
+Between positions (0 1) and (11 11)
+Finished routing net A[0]
+Nets remaining: 20
+Source node @ 9.89um 3.91um layer=0 grid=(21 11)
+netname = B[0], route number 38
+Pass 1 (maxcost is 22)
+Found a route of cost 
+Commit: TotalRoutes = 38
+
+Commit to a route of cost 21
+Between positions (12 11) and (21 11)
+netname = B[0], route number 39
+Pass 1 (maxcost is 10)
+Pass 2 (maxcost is 20)
+Pass 3 (maxcost is 40)
+Pass 4 (maxcost is 80)
+Found a route of cost 
+Commit: TotalRoutes = 39
+
+Commit to a route of cost 51
+Between positions (0 2) and (12 11)
+Finished routing net B[0]
+Nets remaining: 19
+Source node @ 6.21um 6.97um layer=0 grid=(13 20)
+netname = A[1], route number 40
+Pass 1 (maxcost is 33)
+Pass 2 (maxcost is 66)
+Found a route of cost |62
+Commit: TotalRoutes = 40
+
+Commit to a route of cost 62
+Between positions (0 3) and (13 19)
+netname = A[1], route number 41
+Pass 1 (maxcost is 31)
+Found a route of cost 
+Pass 2 (maxcost is 62)
+Found a route of cost |45
+Commit: TotalRoutes = 41
+
+Commit to a route of cost 45
+Between positions (31 12) and (14 3)
+Finished routing net A[1]
+Nets remaining: 18
+Source node @ 5.29um 6.63um layer=0 grid=(11 19)
+netname = B[1], route number 42
+Pass 1 (maxcost is 32)
+Pass 2 (maxcost is 64)
+Found a route of cost 
+Commit: TotalRoutes = 42
+
+Commit to a route of cost 50
+Between positions (0 4) and (11 19)
+netname = B[1], route number 43
+Pass 1 (maxcost is 25)
+Pass 2 (maxcost is 50)
+Found a route of cost 
+Pass 3 (maxcost is 100)
+
+Commit: TotalRoutes = 43
+
+Commit to a route of cost 54
+Between positions (32 11) and (4 4)
+Finished routing net B[1]
+Nets remaining: 17
+Source node @ 6.21um 9.69um layer=0 grid=(13 28)
+netname = A[2], route number 44
+Pass 1 (maxcost is 23)
+Pass 2 (maxcost is 46)
+Found a route of cost 
+Pass 3 (maxcost is 92)
+
+Commit: TotalRoutes = 44
+
+Commit to a route of cost 48
+Between positions (21 20) and (13 27)
+netname = A[2], route number 45
+Pass 1 (maxcost is 46)
+Found a route of cost 
+Pass 2 (maxcost is 92)
+Found a route of cost 
+Commit: TotalRoutes = 45
+
+Commit to a route of cost 57
+Between positions (0 5) and (13 21)
+Finished routing net A[2]
+Nets remaining: 16
+Source node @ 5.29um 9.35um layer=0 grid=(11 27)
+netname = B[2], route number 46
+Pass 1 (maxcost is 24)
+Pass 2 (maxcost is 48)
+Found a route of cost 
+Pass 3 (maxcost is 96)
+
+Commit: TotalRoutes = 46
+
+Commit to a route of cost 54
+Between positions (22 19) and (12 27)
+netname = B[2], route number 47
+Pass 1 (maxcost is 48)
+Found a route of cost |43
+Commit: TotalRoutes = 47
+
+Commit to a route of cost 43
+Between positions (0 6) and (11 19)
+Finished routing net B[2]
+Nets remaining: 15
+Source node @ 15.41um 9.69um layer=0 grid=(33 28)
+netname = A[3], route number 48
+Pass 1 (maxcost is 33)
+Pass 2 (maxcost is 66)
+Found a route of cost 
+Commit: TotalRoutes = 48
+
+Commit to a route of cost 55
+Between positions (23 28) and (33 27)
+netname = A[3], route number 49
+Pass 1 (maxcost is 27)
+Pass 2 (maxcost is 54)
+Pass 3 (maxcost is 108)
+Found a route of cost 
+Commit: TotalRoutes = 49
+
+Commit to a route of cost 83
+Between positions (0 7) and (23 28)
+Finished routing net A[3]
+Nets remaining: 14
+Source node @ 14.49um 9.35um layer=0 grid=(31 27)
+netname = B[3], route number 50
+Pass 1 (maxcost is 32)
+Pass 2 (maxcost is 64)
+Found a route of cost 
+Commit: TotalRoutes = 50
+
+Commit to a route of cost 53
+Between positions (22 27) and (31 27)
+netname = B[3], route number 51
+Pass 1 (maxcost is 26)
+Pass 2 (maxcost is 52)
+Pass 3 (maxcost is 104)
+Found a route of cost 
+Commit: TotalRoutes = 51
+
+Commit to a route of cost 70
+Between positions (0 8) and (22 22)
+Finished routing net B[3]
+Nets remaining: 13
+Source node @ 10.81um 12.07um layer=0 grid=(23 35)
+netname = Cin, route number 52
+Pass 1 (maxcost is 26)
+Pass 2 (maxcost is 52)
+Pass 3 (maxcost is 104)
+Found a route of cost 
+Commit: TotalRoutes = 52
+
+Commit to a route of cost 60
+Between positions (25 11) and (22 35)
+netname = Cin, route number 53
+Pass 1 (maxcost is 30)
+Pass 2 (maxcost is 60)
+Found a route of cost 
+Pass 3 (maxcost is 120)
+
+Commit: TotalRoutes = 53
+
+Commit to a route of cost 61
+Between positions (0 9) and (24 13)
+Finished routing net Cin
+Nets remaining: 12
+Source node @ 15.41um 12.07um layer=0 grid=(33 35)
+netname = _01_, route number 54
+Pass 1 (maxcost is 26)
+Pass 2 (maxcost is 52)
+Found a route of cost 
+Pass 3 (maxcost is 104)
+
+Commit: TotalRoutes = 54
+
+Commit to a route of cost 53
+Between positions (27 13) and (32 35)
+netname = _01_, route number 55
+Pass 1 (maxcost is 52)
+Found a route of cost |36
+Commit: TotalRoutes = 55
+
+Commit to a route of cost 36
+Between positions (15 18) and (26 17)
+Finished routing net _01_
+Nets remaining: 11
+Source node @ 7.13um 9.35um layer=0 grid=(15 27)
+netname = _03_, route number 56
+Pass 1 (maxcost is 17)
+Pass 2 (maxcost is 34)
+Found a route of cost 
+Commit: TotalRoutes = 56
+
+Commit to a route of cost 32
+Between positions (17 20) and (15 26)
+netname = _03_, route number 57
+Pass 1 (maxcost is 16)
+Pass 2 (maxcost is 32)
+Pass 3 (maxcost is 64)
+Found a route of cost |67
+Pass 4 (maxcost is 128)
+
+Commit: TotalRoutes = 57
+
+Commit to a route of cost 67
+Between positions (32 19) and (17 23)
+Finished routing net _03_
+Nets remaining: 10
+Source node @ 6.21um 12.07um layer=0 grid=(13 35)
+netname = _05_, route number 58
+Pass 1 (maxcost is 23)
+Pass 2 (maxcost is 46)
+Found a route of cost 
+Commit: TotalRoutes = 58
+
+Commit to a route of cost 35
+Between positions (17 29) and (12 35)
+netname = _05_, route number 59
+Pass 1 (maxcost is 17)
+Pass 2 (maxcost is 34)
+Pass 3 (maxcost is 68)
+Found a route of cost 
+Commit: TotalRoutes = 59
+
+Commit to a route of cost 47
+Between positions (35 27) and (14 29)
+Finished routing net _05_
+Nets remaining: 9
+Source node @ 12.19um 11.39um layer=0 grid=(26 33)
+netname = Sum[0], route number 60
+Pass 1 (maxcost is 75)
+Pass 2 (maxcost is 150)
+Found a route of cost 
+Commit: TotalRoutes = 60
+
+Commit to a route of cost 94
+Between positions (53 1) and (27 33)
+Finished routing net Sum[0]
+Nets remaining: 8
+Source node @ 16.79um 11.39um layer=0 grid=(36 33)
+netname = Sum[1], route number 61
+Pass 1 (maxcost is 73)
+Found a route of cost 
+Pass 2 (maxcost is 146)
+
+Commit: TotalRoutes = 61
+
+Commit to a route of cost 83
+Between positions (53 2) and (36 35)
+Finished routing net Sum[1]
+Nets remaining: 7
+Source node @ 16.79um 5.95um layer=0 grid=(36 17)
+netname = Sum[2], route number 62
+Pass 1 (maxcost is 39)
+Pass 2 (maxcost is 78)
+Found a route of cost 
+Commit: TotalRoutes = 62
+
+Commit to a route of cost 63
+Between positions (53 3) and (37 17)
+Finished routing net Sum[2]
+Nets remaining: 6
+Source node @ 7.59um 11.39um layer=0 grid=(16 33)
+netname = Sum[3], route number 63
+Pass 1 (maxcost is 79)
+Pass 2 (maxcost is 158)
+Found a route of cost 
+Commit: TotalRoutes = 63
+
+Commit to a route of cost 101
+Between positions (53 4) and (16 35)
+Finished routing net Sum[3]
+Nets remaining: 5
+Source node @ 17.25um 8.67um layer=0 grid=(37 25)
+netname = Cout, route number 64
+Pass 1 (maxcost is 51)
+Found a route of cost 
+Commit: TotalRoutes = 64
+
+Commit to a route of cost 49
+Between positions (53 5) and (37 26)
+Finished routing net Cout
+Nets remaining: 4
+Source node @ 11.27um 12.07um layer=0 grid=(24 35)
+netname = _00_, route number 65
+Pass 1 (maxcost is 55)
+Pass 2 (maxcost is 110)
+Found a route of cost 
+Commit: TotalRoutes = 65
+
+Commit to a route of cost 64
+Between positions (16 13) and (21 36)
+Finished routing net _00_
+Nets remaining: 3
+Source node @ 15.87um 12.07um layer=0 grid=(34 35)
+netname = _02_, route number 66
+Pass 1 (maxcost is 55)
+Found a route of cost 
+Commit: TotalRoutes = 66
+
+Commit to a route of cost 50
+Between positions (36 13) and (33 36)
+Finished routing net _02_
+Nets remaining: 2
+Source node @ 15.87um 6.63um layer=0 grid=(34 19)
+netname = _04_, route number 67
+Pass 1 (maxcost is 19)
+Found a route of cost 
+Pass 2 (maxcost is 38)
+
+Commit: TotalRoutes = 67
+
+Commit to a route of cost 27
+Between positions (26 21) and (31 20)
+Finished routing net _04_
+Nets remaining: 1
+Source node @ 6.67um 12.07um layer=0 grid=(14 35)
+netname = _06_, route number 68
+Pass 1 (maxcost is 31)
+Pass 2 (maxcost is 62)
+Found a route of cost 
+Commit: TotalRoutes = 68
+
+Commit to a route of cost 58
+Between positions (26 27) and (13 36)
+Finished routing net _06_
+Nets remaining: 0
+
+----------------------------------------------
+Progress: Stage 3 total routes completed: 69
+No failed routes!
+----------------------------------------------
+Stub route distance 0.185 to terminal at 23 28 (0)
+Offset terminal distance 0.0600003 to grid at 36 35 (0)
+Offset terminal distance 0.06 to grid at 16 35 (0)
+Stub route distance 0.185 to terminal at 33 36 (0)
+Offset terminal distance 0.0599999 to grid at 26 27 (0)
+Stub route distance 0.185 to terminal at 13 36 (0)
+----------------------------------------------
+Final: No failed routes!
+----------------------------------------------

@@ -57,3 +57,14 @@ The current Magic layout is an initial placement and is not a fully routed physi
 - Mapping log: synthesis/sky130_mapping_log.txt
 - Mapping result: 4 MAJ3 cells and 8 XNOR2 cells.
 
+
+## Signal Routing Results
+
+- Signal routing performed using Qrouter 1.4.88.T.
+- 69 routing connections completed.
+- Zero failed routes reported.
+- Routed DEF successfully exported.
+- 29 ROUTED records present in the exported DEF.
+
+Note: This is signal routing. Power distribution, final physical verification,
+and LVS sign-off are not yet established.
