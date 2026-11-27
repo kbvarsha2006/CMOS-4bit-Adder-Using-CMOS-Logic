@@ -1,0 +1,26 @@
+* NGSPICE file created from adder4.ext - technology: sky130A
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__xnor2_1 abstract view
+.subckt sky130_fd_sc_hd__xnor2_1 A B VGND VNB VPB VPWR Y
+.ends
+
+* Black-box entry subcircuit for sky130_fd_sc_hd__maj3_1 abstract view
+.subckt sky130_fd_sc_hd__maj3_1 A B C VGND VNB VPB VPWR X
+.ends
+
+.subckt adder4 A[0] B[0] A[1] B[1] A[2] B[2] A[3] B[3] Cin Sum[0] Sum[1] Sum[2] Sum[3]
++ Cout
+X_09_ B[1] A[1] _09_/VGND SUB _09_/VPB _12_/VGND _18_/B sky130_fd_sc_hd__xnor2_1
+X_08_ B[0] A[0] Cin _08_/VGND SUB _08_/VPB _11_/VGND _18_/A sky130_fd_sc_hd__maj3_1
+X_07_ B[0] A[0] _07_/VGND SUB _07_/VPB _10_/VGND _17_/B sky130_fd_sc_hd__xnor2_1
+X_18_ _18_/A _18_/B _18_/VGND SUB _18_/VPB _18_/VPWR Sum[1] sky130_fd_sc_hd__xnor2_1
+X_17_ Cin _17_/B _17_/VGND SUB _17_/VPB _17_/VPWR Sum[0] sky130_fd_sc_hd__xnor2_1
+X_16_ _16_/A _16_/B _16_/VGND SUB _16_/VPB _16_/VPWR Sum[3] sky130_fd_sc_hd__xnor2_1
+X_15_ B[3] A[3] _16_/A _15_/VGND SUB _15_/VPB _18_/VGND Cout sky130_fd_sc_hd__maj3_1
+X_14_ B[3] A[3] _14_/VGND SUB _14_/VPB _17_/VGND _16_/B sky130_fd_sc_hd__xnor2_1
+X_13_ B[2] A[2] _13_/C _13_/VGND SUB _13_/VPB _16_/VGND _16_/A sky130_fd_sc_hd__maj3_1
+X_12_ _13_/C _12_/B _12_/VGND SUB _12_/VPB _15_/VGND Sum[2] sky130_fd_sc_hd__xnor2_1
+X_11_ B[2] A[2] _11_/VGND SUB _11_/VPB _14_/VGND _12_/B sky130_fd_sc_hd__xnor2_1
+X_10_ B[1] A[1] _18_/A _10_/VGND SUB _10_/VPB _13_/VGND _13_/C sky130_fd_sc_hd__maj3_1
+.ends
+
