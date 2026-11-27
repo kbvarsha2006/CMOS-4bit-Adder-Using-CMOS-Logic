@@ -50,3 +50,10 @@ The current Magic layout is an initial placement and is not a fully routed physi
 - 8 x sky130_fd_sc_hd__xnor2_1 cells.
 - Mapped netlist: synthesis/adder4_sky130_mapped.v
 - Mapping log: synthesis/sky130_mapping_log.txt
+
+## Sky130 Technology Mapping
+- Technology mapping performed using Yosys ABC and Sky130 HD Liberty library.
+- Mapped netlist: synthesis/adder4_sky130_mapped.v
+- Mapping log: synthesis/sky130_mapping_log.txt
+- Mapping result: 4 MAJ3 cells and 8 XNOR2 cells.
+
