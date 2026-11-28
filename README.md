@@ -57,6 +57,8 @@ Files:
 - Routed DEF exported to `layout/adder4_routed.def`.
 - 29 ROUTED records present in the exported DEF.
 - Routed DEF imported into Magic for inspection.
+- Magic DRC check reported 0 errors; standard-cell path warnings and timestamp mismatches were reported.
+- DRC log: `layout/routed_drc.log`.
 
 ## Layout Extraction
 - Routed layout extraction performed using Magic.
@@ -67,7 +69,7 @@ Files:
 The Verilog simulation and Qrouter signal-routing results have been verified.
 
 The following sign-off checks are not yet established:
-- Complete routed-layout DRC verification
+- Full physical sign-off DRC verification (the current Magic check reports 0 errors, but has import warnings)
 - LVS verification against the corresponding schematic
 - Final physical-design sign-off, including power distribution
 

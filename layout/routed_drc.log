@@ -1,0 +1,28 @@
+
+Magic 8.3 revision 695 - Compiled on Sun Nov  8 14:27:19 UTC 2026.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+WARNING: RLIMIT_NOFILE is above 1024 and Tcl_Version<9 this may cause runtime issues [rlim_cur=10240]
+Using NULL graphics device.
+Input style sky130(): scaleFactor=2, multiplier=2
+The following types are not handled by extraction and will be treated as non-electrical types:
+    ubm 
+Processing system .magicrc file
+Switching to WIRING tool.
+Switching to NETLIST tool.
+Switching to PICK tool.
+Switching to BOX tool.
+Using technology "sky130A", version 1.0.588-123-gc6df28c
+Cell adder4_routed_import read from path layout
+Processing timestamp mismatches.
+Warning:  Parent cell lists instance of "sky130_fd_sc_hd__xnor2_1" at bad file path layout/sky130_fd_sc_hd__xnor2_1.mag.
+The cell exists in the search paths at /home/kbvar/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__xnor2_1.mag.
+The discovered version will be used.
+Cell sky130_fd_sc_hd__xnor2_1 read from path /home/kbvar/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Input cell sky130_fd_sc_hd__xnor2_1 scales magic internal geometry by factor of 2
+Warning:  Parent cell lists instance of "sky130_fd_sc_hd__maj3_1" at bad file path layout/sky130_fd_sc_hd__maj3_1.mag.
+The cell exists in the search paths at /home/kbvar/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/mag/sky130_fd_sc_hd__maj3_1.mag.
+The discovered version will be used.
+Cell sky130_fd_sc_hd__maj3_1 read from path /home/kbvar/open_pdks/sky130/sky130A/libs.ref/sky130_fd_sc_hd/mag
+Timestamp mismatches found in these cells: sky130_fd_sc_hd__maj3_1, sky130_fd_sc_hd__xnor2_1.
+Total DRC errors found: 0
